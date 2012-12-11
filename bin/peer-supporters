@@ -1,0 +1,48 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import os
+output = "../peer-supporters.markdown"
+dataF = "../data/"
+peer_thunk = os.path.join(dataF, "peer-supporter-")
+
+def email(s):
+    return "<a href=\"mailto:%s\">%s</a>" % (s,s)
+
+def show(t, o):
+    print >>o, "<table class='name-email shaded'>"
+    print >>o,"<tr><th>%s</th><th></th></tr>" % t.upper()
+    for l in open(peer_thunk + t).xreadlines():
+        l = map(str.strip, l.split(","))
+        if len(l) < 2: continue
+        print >>o, "  <tr><td class=\"name\">%s</td>\n  <td class=\"email\">%s</td></tr>" % (l[0],
+                email(l[1]))
+    print >>o, "</table>"
+
+o=open(output, "w")
+
+print >>o, """---
+layout: page
+title: Peer Supporters
+---
+Peer Supporters are trained by the University Counselling Service as an
+impartial ear for anyone in college to talk to about absolutely anything.
+
+Oxford is permanently high-stress and if there are things bothering you
+everything can very quickly get on top of you. Sometimes you can feel you
+are burdening your friends, or that you just don’t want them to know about
+a particular issue; perhaps you feel your problem isn't 'serious' enough
+that you need to go to a senior member of college and yet it's still
+worrying; perhaps you want to talk to someone who doesn't know you just to
+get something off your chest.
+
+You dictate the terms; you can talk for as long as you like, whenever you
+like, about whatever you like. Most importantly, Peer Support is
+confidential, we don't judge or instruct, and people really do approach us
+with problems big and small.
+
+You can email, you can phone, you can come to their rooms for tea –
+use this excellent service!
+"""
+show("mcr", o)
+show("jcr", o)
+show("scr", o)
