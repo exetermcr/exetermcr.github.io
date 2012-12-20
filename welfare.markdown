@@ -16,11 +16,11 @@ MCR Graduate Welfare Officer
   in the areas of welfare, personal security, accommodation and academic needs
   
 Tutor for Graduates
-: The Tutor for Graduates (Dr Chris Ballinger, internal tel 79678)
+: The Tutor for Graduates (Dr Chris Ballinger, {% tel 01865 279678 %})
   is responsible for the academic and personal welfare of graduate students in the college.
   
 Women's Adviser
-: The Women's Adviser (Ms Jeri Johnson, 4:1, internal tel 79608) is available to assist
+: The Women's Adviser (Ms Jeri Johnson, 4:1, {% tel 01865 279608 %}) is available to assist
   with the personal or academic difficulties of women students at Exeter.
   
 Religious Support
@@ -29,7 +29,7 @@ Religious Support
   to all members of Exeter College, whatever their religious beliefs. The Freshers' Fair
   will also include spiritual communities at Oxford.
   
-Nightline (01865 270270)
+Nightline ({% tel 01865 270270 %})
 : Nightline is a confidential listening, support and information service run by students
  for students. You can either call them or drop into their office at
  [16 Wellington Square](https://maps.google.co.uk/maps?q=16+Wellington+Square,+Oxford&hl=en&sll=51.749229,-1.247588&sspn=0.123918,0.261955&oq=16+Welling&t=h&hnear=16+Wellington+Square,+Oxford+OX1,+United+Kingdom&z=16)

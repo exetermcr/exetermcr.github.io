@@ -175,15 +175,16 @@ div.footer {
 div#quick-links, div#events {
     margin: 0;
     margin-top: -15px;
+    margin-bottom: 2em;
 }
 
 div#quick-links {
     float: right;
     width: 35%;
     background: #FFEB77;
+    border-bottom: 2px solid brown;
 
     h3 { margin: 0; padding: 0; background: #EFDC70}
-
     ul {
         list-style-type: none;
         margin: 0;
