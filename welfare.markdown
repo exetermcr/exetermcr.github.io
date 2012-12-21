@@ -25,7 +25,7 @@ Women's Adviser
   
 Religious Support
 : The College Chaplain (The Revd
-  [Stephen Hearn](stephen.hearn@exeter.ox.ac.uk)) offers counsel and pastoral support
+  [Stephen Hearn](mailto:stephen.hearn@exeter.ox.ac.uk)) offers counsel and pastoral support
   to all members of Exeter College, whatever their religious beliefs. The Freshers' Fair
   will also include spiritual communities at Oxford.
   
