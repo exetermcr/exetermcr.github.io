@@ -3,3 +3,4 @@ _site/*
 style.css
 images/*
 .sass-cache/*
+*.backup
