@@ -1,0 +1,21 @@
+* { font-family: "Palatino", "Times New Roman", Times, serif; color: black; }
+a { font-family: "Palatino", "Times New Roman", Times, serif;
+text-decoration: none; color: black; }
+h1 a { border-bottom: 0 }
+div.information { display: none }
+div.navbar { display: none }
+.banner { display: none }
+h1 a { color: black }
+div#page-header h2 { border-bottom: 2px solid black; }
+h1, div#page-header h2 { text-align: center }
+h1, h2, h3 { font-variant: small-caps; color: black }
+h1 { font-size: 95%;}
+h1 img { height: 10px;}
+body { width: auto; font-size: 80%;}
+@page  
+{ 
+    size: auto;
+    margin: 15mm 15mm 25mm 15mm;  
+} 
+
+div.footer { display: none }

@@ -396,15 +396,3 @@ span.parentlinks { display: none}
 dt { font-weight: bold}
 div#backlinks {margin-bottom: 0; margin-left: 15px}
 div.pagedate { margin-left: 15px}
-
-
-@media print {
-    * { font-family: "Times New Roman", Times, serif; color: black; }
-    div.navbar { display: none }
-    div.header img { display: none }
-    h1,h2 { text-align: center }
-    h1 { font-size: 80% }
-    h2 { border-bottom: 2px solid black }
-    body { width: 640px }
-}
-
