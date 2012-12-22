@@ -276,6 +276,23 @@ div.navbar {
     }
 }
 
+// events page
+.event {
+    border: 1px dotted silver;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: 0.5em;
+    background: antiqueWhite;
+}
+
+.event div {
+    padding: 0.5em;
+}
+.date {
+    background: wheat;
+    font-weight: bold;
+}
+
 @media (max-width: 640px) {
     a.hide {
         display: inherit;
