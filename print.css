@@ -19,3 +19,5 @@ body { width: auto; font-size: 80%;}
 } 
 
 div.footer { display: none }
+.description p { margin-top: 0; padding-top: 0; text-decoration: italic; }
+span.date { font-weight: bold }
