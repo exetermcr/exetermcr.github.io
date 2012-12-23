@@ -281,15 +281,18 @@ div.navbar {
     border: 1px dotted silver;
     margin-bottom: 1em;
     margin-top: 1em;
-    padding: 0.5em;
     background: antiqueWhite;
 }
 
-.event div {
+.event-title, .details {
     padding: 0.5em;
 }
-.date {
+
+.event-title {
     background: wheat;
+}
+
+.date {
     font-weight: bold;
 }
 
