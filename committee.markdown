@@ -4,7 +4,7 @@ title: Executive Committee
 ---
 The Executive Committee members for 2013-2014 are
 
-### *President*, Challenger Mishra
+### *President*, <a href="mailto:president@exetermcr.org">Challenger Mishra</a>
 Dear current and future Exonians,
 
 I am your MCR President, Challenger. I hail from the beautiful and
