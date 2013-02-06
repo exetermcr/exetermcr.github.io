@@ -4,33 +4,114 @@ title: Executive Committee
 ---
 The Executive Committee members for 2013-2014 are
 
-### *President*
-#### Challenger Mishra
-*bio to be uploaded*
+### *President*, Challenger Mishra
+Dear current and future Exonians,
 
-### Vice President
-#### Lachlan Molesworth
-*bio to be uploaded*
+I am your MCR President, Challenger. I hail from the beautiful and
+mysterious land of India. I am pursuing a DPhil in Theoretical Physics
+and currently in my second year.
 
-### *Treasurer-Elect*, Franci
+The Exeter MCR is a vibrant community of people from diverse social and
+academic backgrounds. It is also one of the closest knit and larger
+graduate communities in Oxford. Our social agenda include exchanges with
+other colleges in and outside Oxford, BOPs, Friday Tea and Cakes, Exeter
+House socials, Pub Crawls and plenty more. The MCR also provides welfare
+support to its members. It is one of the most exciting communities to be
+a part of whether you are an intellectual or a social creature. With the
+700th Anniversary just around the corner, these are exciting times to be
+an Exonian.
+
+Always available to listen to your ideas and concerns. Feel free to drop
+in an email or have a chat.
+
+### Vice President, Lachlan Molesworth
+
+I stood for Vice President of the MCR to assist with the running and
+planning of our much loved common room.  I think we are incredibly lucky
+to have such an inclusive and active MCR that provides a remarkably
+homely and happy environment.  I regularly have the conversation with
+colleagues from other colleges about their levels of college
+participation, and believe that there is little comparison with the
+level of engagement that the Exeter community provides.  We are
+fortunate to have a graduate community that is so effective in bringing
+everyone together as a great group.  I for one have had a magnificent
+time getting to know everyone.  I think it is very important to continue
+to have a very active committee, that maintains strong relations with
+the Rector and College management in order to ensure our lively and much
+loved MCR body continues going forward. When I am not in the MCR I
+studying for my Masters of Business Administration (MBA) degree at the
+Oxford University Business School.  Prior to coming up to Oxford I was a
+lawyer in Melbourne, Australia, for the past two years.
+
+### *Treasurer-Elect*, Francisca Gale
+
+My name's Francisca (like Francisco with an 'a' at the end, funnily
+enough, or Fran) and I'm from the Isle of Man, but I promise I won't
+siphon the MCR's funds into a trust or company based there. In a
+previous academic life, I studied German and Modern Greek at King's
+College London, whence I came to Exeter/Oxford in 2010 to specialise in
+medieval German literature.  I'm now writing a doctoral thesis on the
+poetics of adaptation as evidenced by various twelfth- and
+thirteenth-century narrative texts.  I can usually be found sitting in
+the MCR in the chair next to the kitchen.
+
+# *Treasurer*, Samuel Denny
+
 Sam is a second-year DPhil student in Physics, and MCR treasurer for the year 2012-2013.  Frequently to be seen around college, Sam will manage the MCR accounts for the next year and ensure that the MCR can provide a supportive and enjoyable community within the limitations of its budget.
 
-### *Welfare Officer*, Emily Dolmans
-Hey there!  I'm Emily, Welfare Officer for this year. My job is to make sure that everyone stays happy, smiling, and caffeinated. I run a weekly Tea and Cakes session (please let me know if you have cheese requests), and I'm your go-to person if you have anything you want to talk about, or if you just need a hug. I'm currently pursuing a Masters degree in Medieval English Literature, with a focus on outlaw narratives (this doesn't mean that it's okay to nab things from the MCR though!). When I'm not poring over old manuscripts in the library, I enjoy camping, reading experimental novels, and coming up with groan-worthy puns. Apologies in advance. 
- 
-### *Social Secretary*, Andrew Bissette
-Originally from Lancashire, Andrew studied chemistry at the University of Manchester and before coming to Oxford to study at the Systems Biology Doctoral Training Centre in 2010. His research focuses on the role of micellar catalysis in the origins of life. Although chemists are not meant to have interests beyond the fume hood, Andrew enjoys pointless arguments about philosophy, pestering international students about their native languages, and baking (it's science - for hungry people!). When he grows up, he wants to contribute something useful to the world; failing that, he'd like to be Batman. As a social secretary it is his goal to intoxicate you and integrate you into the MCR.
+### *Welfare Officer*, Esther Kwan
 
-### *Social Secretary*, Birgit Mikus
-I'm Birgit, one of your social secretaries for the year 2011-2012. I'm from Germany and in my third year of a  DPhil in, of all things, Modern German Literature (more specifically, political women's writing in the 19th century, if anyone is interested).
+Esther completed a B.A. in Government and a B.Sc. in Urban and Regional
+Studies at Cornell University. After her undergraduate degree, she
+taught English in the West Bank and interned at an Arab research
+center. Between sharing iftarswith her Palestinian host family and
+having cups of shai with the locals, she became inspired by grassroots
+efforts in shaping the discourse on poverty and development. Her brief
+Middle Eastern sojourn inspired her to study and conduct research on
+international development at the University of Oxford.
 
-Together with Andrew and Yue-Yi I'm responsible for the MCR termcard, including but not limited to bops, exchange dinners, wine and cheese evenings, and any other opportunity we can find to get you lovely people drinking, dancing, and generally having a bit of fun on the side.
+As the MCR’s Welfare Officer, Esther will ensure that your Oxford
+experience is fulfilling and satisfying to the utmost degree. Tea and
+Cakes sessions (with the possibility of ice cream sundae afternoons,
+milkshakes, and wings and calzones nights) will come with the added
+benefit of free hugs. Being a perpetual night owl, Esther will make
+available a 24/7 hotline for coping with any all-nighters, essay crisis,
+and thesis deadlines that you may find yourself in this academic
+year. She intends to fulfill her campaign promise, which is to bake for
+the entire MCR at least once a term, hopefully satisfying your mid-day
+cravings for anything doused in maple syrup or powdered sugar. For those
+inclined to occasional spa therapy/pampering sessions, she will make
+proposals to amply provide for such indulgences.
 
-### *Social Secretary & Liaison Officer*, Yue-Yi  Hwa
-This is Yue-Yi. I’m a first-year MPhil in Comparative Government, and will be writing about authoritarianism in Malaysia (where I’m from) and Singapore (where I did my A Levels). If you don’t know how to pronounce my name you can either pretend you’re saying the acronym for  the Emirates or ask me as many times as is necessary. There’s a good chance I’ll ask for your name again, because I’m not the best with faces. Especially if they belong to people who are taller than me, i.e. 95 percent of the MCR.
+### *Welfare Officer*, Roxane Barsky
 
-### *Sports Rep*, Imogen Parry
-My name is Imogen Parry and I'm currently the Exeter House President and the sports rep for the MCR.  As Exeter House President, I run events like the party and film night, while as sports rep I am responsible for the yoga classes and table tennis tournaments.  I'm hoping to run some squash sessions and an MCR-JCR football match in the summer.  I'm well acquainted with Exeter College as I did my undergraduate degree here, in Chemistry, and I'm now in my first year of DPhil.
+Hello there. I'm known to most as Roxy (Sting stole my
+thunder). Originally from a small town in Dorset, I went to King's
+College London to learn about History before coming to Oxford to learn
+about it some more. After this year however, I think I will have learnt
+enough! I have strong views about what makes a perfect cup of tea, and
+the optimum dunking biscuit, hence I believe myself to be well suited to
+the role of Welfare Officer! I also like the occasional inspirational
+quote and proverb which I believe can do wonders to lift human spirit. I
+dish these out free of charge and always have a ready supply.
+
+### *Social Secretary*, Imogen Parry
+Hi, my name is Imogen and I am delighted to be one of your new social
+secretaries!  Andrew, Birgit and Yue-Yi are a hard act to follow but I
+promise to try and make our bops as good as theirs, and to provide
+plenty of other events to get the whole MCR involved.  Even though I've
+been in Oxford for so many years that I'm running out of fingers to
+count them on, I'm still finding new things to do here so let's enjoy
+them!
+
+### *Social Secretary*, Andreas Harris
+*bio to be uploaded*
+
+### *Social Secretary*, Isabelle Yates
+*bio to be uploaded*
+
+### *Sports Rep*, Anthony Dickinson
+*bio to be uploaded*
 
 ### *Exeter House President*, Nikita Kaushal
 I am Nikita Kaushal and I am from India. For those who know a little
@@ -63,13 +144,13 @@ band of Baker Street Irregulars.
 
 ### *Library Rep*, Paola Ferrari
 
-Hi, I am Paola the outgoing Fresher Rep and new Library Rep. As Fresher rep I
-organized and coordinated Fresher's week last <abbr title="Michaelmas Term">MT</abbr> and as Library Rep I
-represent the the graduate student body (MCR)  at the Library Committee
-Meeting.  I am a second Year DPhil student in Physical  and Theoretical
-Chemistry studying Soft Condensed Matter and looking at Polyphenols-Polymer
-interaction. As many of you may know I have a little boy named Matteo who times
-to times show up in the MCR and I enjoy rowing, skiing and running.
-
-### *Freshers' Representative*, Tiffany Chezum
-Hey everyone, I’m a second year DPhil student in Archaeology studying the status of indigenous elites in Graeco-Roman Egypt. I’m originally from the Chicago area in the US where I completed a BA in Classics, and I also have an MA in Classics from Queen’s University in Canada. Since joining the Exeter MCR two years ago, and with the experience of two different institutions behind me, I have really come to appreciate the potential of this community to bring together individuals who, as graduate students, are sometimes susceptible to academic isolation. As Fresher’s Rep, I hope to be able to fully perpetuate this inclusive social environment and to pass on the warm welcome I received to the incoming class of Exeter graduates. 
+Hi there, I am a third year DPhil student in Physical and Theoretical
+Chemistry studying Soft Condensed Matter and looking at
+Polyphenols-Polymer interaction and phase behavior in emulsions. As many
+of you may know I have a little boy named Matteo who times to times show
+up in the MCR.  I am the MCR Library rep, which means that I represent
+the graduate student body (MCR) at Library Committee Meetings to protect
+our interest as College library users.  It is well known that I am a
+"low impact" Library user since I am hardly ever there but you can
+always feed me in with your Library related issues, just send me an
+e-mail..
