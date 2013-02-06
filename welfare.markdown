@@ -9,9 +9,9 @@ stay here. Some of the people and resources you could approach for help are give
 below. The College also has a group of [peer supporters](/peer-supporters) whom
 you can talk to.
 
-MCR Graduate Welfare Officer
-: The MCR Graduate Welfare Officer is
-  [Emily Dolmans](mailto:emily.dolmans@exeter.ox.ac.uk). She represents the
+MCR Graduate Welfare Officer (<mailto:welfare@exetermcr.org>)
+: The MCR Graduate Welfare Officers are
+  Esther Kwan and Roxane Barsky. They represent the
   general concerns of all members of the graduate community, particularly
   in the areas of welfare, personal security, accommodation and academic needs
   

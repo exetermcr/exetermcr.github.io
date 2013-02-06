@@ -2,8 +2,6 @@
 layout: page
 title: Executive Committee
 ---
-The Executive Committee members for 2013-2014 are
-
 ### *President*, <a href="mailto:president@exetermcr.org">Challenger Mishra</a>
 Dear current and future Exonians,
 
@@ -24,7 +22,7 @@ an Exonian.
 Always available to listen to your ideas and concerns. Feel free to drop
 in an email or have a chat.
 
-### Vice President, Lachlan Molesworth
+### Vice President, <a href="mailto:vice-president@exetermcr.org">Lachlan Molesworth</a>
 
 I stood for Vice President of the MCR to assist with the running and
 planning of our much loved common room.  I think we are incredibly lucky
@@ -43,7 +41,7 @@ studying for my Masters of Business Administration (MBA) degree at the
 Oxford University Business School.  Prior to coming up to Oxford I was a
 lawyer in Melbourne, Australia, for the past two years.
 
-### *Treasurer-Elect*, Francisca Gale
+### *Treasurer-Elect*, <a href="mailto:treasurers@exetermcr.org">Francisca Gale</a>
 
 My name's Francisca (like Francisco with an 'a' at the end, funnily
 enough, or Fran) and I'm from the Isle of Man, but I promise I won't
@@ -55,11 +53,11 @@ poetics of adaptation as evidenced by various twelfth- and
 thirteenth-century narrative texts.  I can usually be found sitting in
 the MCR in the chair next to the kitchen.
 
-### *Treasurer*, Samuel Denny
+### *Treasurer*, <a href="mailto:treasurers@exetermcr.org">Samuel Denny</a>
 
 Sam is a second-year DPhil student in Physics, and MCR treasurer for the year 2012-2013.  Frequently to be seen around college, Sam will manage the MCR accounts for the next year and ensure that the MCR can provide a supportive and enjoyable community within the limitations of its budget.
 
-### *Welfare Officer*, Esther Kwan
+### *Welfare Officer*, <a href="mailto:treasurers@exetermcr.org">Esther Kwan</a>
 
 Esther completed a B.A. in Government and a B.Sc. in Urban and Regional
 Studies at Cornell University. After her undergraduate degree, she
@@ -83,7 +81,7 @@ cravings for anything doused in maple syrup or powdered sugar. For those
 inclined to occasional spa therapy/pampering sessions, she will make
 proposals to amply provide for such indulgences.
 
-### *Welfare Officer*, Roxane Barsky
+### *Welfare Officer*, <a href="mailto:welfare@exetermcr.org">Roxane Barsky</a>
 
 Hello there. I'm known to most as Roxy (Sting stole my
 thunder). Originally from a small town in Dorset, I went to King's
@@ -95,7 +93,7 @@ the role of Welfare Officer! I also like the occasional inspirational
 quote and proverb which I believe can do wonders to lift human spirit. I
 dish these out free of charge and always have a ready supply.
 
-### *Social Secretary*, Imogen Parry
+### *Social Secretary*, <a href="mailto:social@exetermcr.org">Imogen Parry
 Hi, my name is Imogen and I am delighted to be one of your new social
 secretaries!  Andrew, Birgit and Yue-Yi are a hard act to follow but I
 promise to try and make our bops as good as theirs, and to provide
@@ -113,7 +111,7 @@ them!
 ### *Sports Rep*, Anthony Dickinson
 *bio to be uploaded*
 
-### *Exeter House President*, Nikita Kaushal
+### *Exeter House President*, <a href="mailto:exeter-house-president@exetermcr.org">Nikita Kaushal</a>
 I am Nikita Kaushal and I am from India. For those who know a little
 about India, my Mom's from the South and Dad's from the North of
 India, they compromised and settled in the middle in a city called
@@ -127,10 +125,10 @@ educated, I like trying my hand at random games (at present thats
 Touch Rugby and Fencing at Oxford), watching movies, travelling and in
 general chilling and doing absolutely nothing.
 
-### *IT Officer*, Abhishek Dasgupta
+### *IT Officer*, <a href="mailto:it@exetermcr.org">Abhishek Dasgupta</a>
 Abhishek is actually an android who is interested in how humans interact with technology, using it to improve their lives and make sense of the world around us. In spare time, Abhishek also takes care of the MCR website and plays table tennis. Previously Abhishek studied physics, but has acknowledged that his nature is better suited to understanding the world using computer science, which Abhishek is happily doing as part of a DPhil.
 
-### *Environmental Rep*, Alistair Hanson
+### *Environmental Rep*, <a href="mailto:environmental@exetermcr.org">Alistair Hanson</a>
 Hullo, I'm Alistair, and I've ended up as Environmental Rep, which
 means I am to ensure that the plant remains watered and the rubbish
 suitably divided. Originally from Cheshire (the non-footballer bit), I
@@ -142,7 +140,7 @@ the tourists. I am often to be found in the MCR, usually asleep. In my
 spare time, I solve crimes, with the assistance of pipe tobacco and my
 band of Baker Street Irregulars.
 
-### *Library Rep*, Paola Ferrari
+### *Library Rep*, <a href="mailto:library@exetermcr.org">Paola Ferrari</a>
 
 Hi there, I am a third year DPhil student in Physical and Theoretical
 Chemistry studying Soft Condensed Matter and looking at
