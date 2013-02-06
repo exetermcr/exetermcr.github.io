@@ -55,7 +55,7 @@ poetics of adaptation as evidenced by various twelfth- and
 thirteenth-century narrative texts.  I can usually be found sitting in
 the MCR in the chair next to the kitchen.
 
-# *Treasurer*, Samuel Denny
+### *Treasurer*, Samuel Denny
 
 Sam is a second-year DPhil student in Physics, and MCR treasurer for the year 2012-2013.  Frequently to be seen around college, Sam will manage the MCR accounts for the next year and ensure that the MCR can provide a supportive and enjoyable community within the limitations of its budget.
 
