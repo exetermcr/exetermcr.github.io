@@ -184,7 +184,9 @@ div#quick-links {
     background: #FFEB77;
     border-bottom: 2px solid brown;
 
-    h3 { margin: 0; padding: 0; background: #EFDC70}
+    h3 { margin: 0; padding: 0;
+        background: #EFDC70;
+    }
     ul {
         list-style-type: none;
         margin: 0;
@@ -201,6 +203,13 @@ div#quick-links {
     }
     a:hover {
         background: silver;
+    }
+}
+
+h3 {
+    border-bottom: 2px solid orange;
+    a {
+       text-decoration: none;
     }
 }
 
