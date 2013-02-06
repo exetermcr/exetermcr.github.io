@@ -2,15 +2,17 @@
 layout: page
 title: Executive Committee
 ---
-The Executive Committee members are
+The Executive Committee members for 2013-2014 are
 
-### *President*, Maxim Polyakov
-Maxim, previously of Balliol College, came to Exeter in 2010. He is writing a DPhil on the topic of old age Ancient Greek tragedy and comedy. Maxim can often be found in the Exeter MCR, as it’s one of his favourite places in Oxford. As President-elect, Maxim will endeavour to follow the shining example of our current leader to make sure that the Exeter MCR is as smoothly run next term as it has been this year.
-
-### *Vice President*, Challenger Mishra
+### *President*
+#### Challenger Mishra
 *bio to be uploaded*
 
-### *Treasurer-Elect*, Samuel Denny
+### Vice President
+#### Lachlan Molesworth
+*bio to be uploaded*
+
+### *Treasurer-Elect*, Franci
 Sam is a second-year DPhil student in Physics, and MCR treasurer for the year 2012-2013.  Frequently to be seen around college, Sam will manage the MCR accounts for the next year and ensure that the MCR can provide a supportive and enjoyable community within the limitations of its budget.
 
 ### *Welfare Officer*, Emily Dolmans
