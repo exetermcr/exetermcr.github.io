@@ -2,6 +2,7 @@ $content-width: 90%;
 $small-device-list-padding: 1em;
 $page-header-background: #dfdfdf;
 $page-header-foreground: black;
+$quick-links-background: wheat;
 
 article,
 header,
@@ -256,9 +257,38 @@ div#content {
     margin: auto;
 }
 
+div.navbar-quick {
+	background: $quick-links-background !important;
+	ul {
+		background: $quick-links-background !important;
+		margin-top: 0px; padding: 0.3em !important;
+	}
+	a {
+		padding: 0.1em 0.4em !important;
+		color: black;
+		border: 3px solid $quick-links-background;
+	}
+	li { border-right: 1px dotted brown;}
+	a:hover { text-decoration: underline; }
+	a:active { border: 3px solid orange; }
+	border-bottom: 3px solid brown;
+}
+
 div.navbar {
+	background: black;
+	ul {
+		background: black;
+	}
+	a {
+		color: gold;
+	}	
+    a:hover {
+        background: gold;
+        color: black;
+    }
+}
+div.navbar-structure {
     display: block;
-    background: black;
     margin: 0;
     padding: 0;
 //    margin-top: -3px;
@@ -266,7 +296,6 @@ div.navbar {
         max-width: 815px;
         margin: auto;
         margin-top: -3px;
-        background: black;
         padding: 0.4em;
 		list-style-type: none;
 		li {
@@ -277,14 +306,13 @@ div.navbar {
 	}
 	a {
         padding: 0.5em 0.8em;
-		color:gold;
 		text-decoration: none;
         font-size: 90%;
 	}
-    a:hover {
-        background: gold;
-        color: black;
-    }
+	span {
+		font-size: 90%;
+		padding: 0.5em 0.8em;
+	}
 }
 
 // events page
@@ -357,7 +385,32 @@ div.navbar {
         ul { margin: 0;}
         li { padding: 0 }
     }
+    div.navbar-quick {
+    	ul {
+    		li {
+    			border: none;
+    			a {
+    				border-bottom: 1px dotted gray;
+    			}
+    		}
+    	}	
+    	
+    }
     div.navbar {
+    	ul {
+    		background: white;
+    		li a {
+    			background: white;
+    			border-bottom: 1px dotted gray;
+    			color: brown;
+    		}
+    		a:hover {
+    			background: silver;
+    		}
+    	}
+	}
+    			
+    div.navbar-structure {
         display: block;
         width: 100%;
         margin: 0;
@@ -365,22 +418,14 @@ div.navbar {
         ul {
             padding: 0;
             margin: 0;
-            background: white;
             font-size: 110%;
             li {
                 display: list-item;
-//                width: 100%;
                 padding:0;
                 a {
                     display: block;
-                    background: white;
                     padding-left: $small-device-list-padding;
-                    border-bottom: 1px dotted gray;
-                    color: brown;
                     text-decoration: underline;
-                }
-                a:hover {
-                    background: silver;
                 }
             }
         }
