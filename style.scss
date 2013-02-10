@@ -1,4 +1,4 @@
-$content-width: 90%;
+$content-width: 75%;
 $small-device-list-padding: 1em;
 $page-header-background: #dfdfdf;
 $page-header-foreground: black;
@@ -72,9 +72,11 @@ div.alert {
 }
 div.alert-information {
 	background: wheat;
+    border-bottom: 2px solid brown;
 }
 div.alert-important {
 	background: lightcoral;
+    border-bottom: 2px solid red;
 }
 
 table.shaded {
@@ -126,22 +128,22 @@ div.header {
 
 body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-    font-weight: 400; font-size: 95%;
+    font-weight: 400; font-size: 100%;
     color:#111;
     background-color: white;
     padding: 0;
     margin: auto;
-    width: 70%;
+    width: 60%;
     max-width: 1024px;
 }
 
 div#page-header {
     width: auto;
     background: $page-header-background;
+    border-bottom: 2px solid grey;
     h2 {
         font-variant: small-caps;
         padding: 0;
-        font-family: Alegreya, sans-serif;
         color: $page-header-foreground;
         margin: auto;
         font-size: 225%;
@@ -208,7 +210,8 @@ div#quick-links {
 }
 
 h3 {
-    border-bottom: 2px solid orange;
+    border-bottom: 3px solid orange;
+    padding-bottom: 3px;
     a {
        text-decoration: none;
     }
@@ -250,8 +253,8 @@ div#content {
 	padding: 3px;
 	margin-left: 25px;
 	margin-right: 25px;
-	line-height: 1.4;
-	color: #555;
+	line-height: 150%;
+	color: #444;
     width: $content-width;
     max-width: 800px;
     margin: auto;
@@ -359,6 +362,9 @@ div.navbar-structure {
     }
     div#page-header h2 {
         font-size: 200%;
+    }
+    div#content {
+        width: 90%;
     }
     div#breadcrumbs {
         display: none;
