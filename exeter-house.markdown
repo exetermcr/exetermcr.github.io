@@ -127,8 +127,9 @@ first learn how.  When you can ride your bike, think about your safety
 – a helmet is not a legal requirement but is strongly recommended.
 Lights are a legal requirement, and the police do spot checks here all
 the time.  Get lights.  Lastly, bike theft is common in Oxford, so get
-a good lock.  The police give some good tips for bike safety here:
-<http://www.met.police.uk/transport/cycle_security.html>
+a good lock.  The police give [some good
+tips](http://content.met.police.uk/Article/Cycle-Security-Advice/1400005851380/1400005851380)
+for bike safety here.
 
 In order to leave your bike at EH or Exeter College, you must register
 it at the Porter’s Lodge at Exeter College. They will provide you with
@@ -211,7 +212,7 @@ An ordered taxi (“private hire”) is less expensive than getting a “big
 black” taxi (“hackney cabs”) from a stand. For hackney cabs, there are
 several in the centre, by Carfax and Gloucester Green for example. To
 get phone numbers for private hire taxi companies, visit
-<http://www.dailyinfo.co.uk/guide/taxi> (this website it worth browsing – it
+<http://www.dailyinfo.co.uk/oxford/guide/taxi> (this website it worth browsing – it
 has a lot of useful information about living in Oxford).
 
 ## Things you will pick up as you go along.

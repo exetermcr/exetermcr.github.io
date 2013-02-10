@@ -134,7 +134,7 @@ body {
     padding: 0;
     margin: auto;
     width: 60%;
-    max-width: 1024px;
+    max-width: 800px;
 }
 
 div#page-header {
@@ -146,7 +146,7 @@ div#page-header {
         padding: 0;
         color: $page-header-foreground;
         margin: auto;
-        font-size: 225%;
+        font-size: 200%;
         width: 90%;
         max-width: 800px;
     }
@@ -442,6 +442,7 @@ div.navbar-structure {
     body {
         margin: 0;
         width: 100%;
+        max-width: none;
     }
 }
 
