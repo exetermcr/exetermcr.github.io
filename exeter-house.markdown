@@ -33,12 +33,13 @@ questions you may have. See you soon!
 
 Imogen
 
-### So you’ve got a room at Exeter House.  What next?  Here is the (unofficial) survival guide…
+{:toc}
+1. TOC
 
-### Things to know before you arrive.
+### Things to know before you arrive
 
 ## Where are we?
-235 Iffley Road.  It’s not in the centre of town, but the centre is 20-25 minutes away on foot and a bit less than ten minutes on a bike. 
+235 Iffley Road.  It’s not in the centre of town, but the centre is 20-25 minutes away on foot and a bit less than ten minutes on a bike.
 
 ## Facilities
 
@@ -117,7 +118,7 @@ parking facilities.  You can park on some of the surrounding streets,
 but everything in Oxford is a cycle or walk away so it’s best to do
 without a car if you can.
 
-## Things you will need when you arrive.
+## Things you will need when you arrive
 
 ### Bikes
 
@@ -156,11 +157,13 @@ There are two computers and a printer in the Chapel for use by members
 of Exeter College. In order to log on you will need an Exeter College
 IT account. You will receive details about this from the College
 shortly after the you move in. Wi-Fi is available in all communal
-areas of EH, but not in most bedrooms.
+areas of EH, but not in most bedrooms. The IT department can be
+contacted at <it-help@exeter.ox.ac.uk>. Ethernet cables are available
+from the IT department located in the tower besides the Rector's lodgings.
 
-### Local facilities.
+### Local facilities
 
-First, food. On Iffley Road there is a small Co-op supermarket which
+**First, food**. On Iffley Road there is a small Co-op supermarket which
 is open till midnight every day.  On Cowley road, there is a sizable
 Tesco Metro and a Sainsburys’ local.  If you do have a car or a friend
 with a car, there is a gargantuan Tesco just outside the ring road at
@@ -168,9 +171,9 @@ the out-of-town end of Cowley Road, if you want to stock up or buy
 some very obscure ingredients.  Cowley Road is also home to an Asian
 supermarket, a Polish supermarket and other specialist food stores.
 
-Second, money.  The nearest ATM is inside the Co-op.
+**Second, money**.  The nearest ATM is inside the Co-op.
 
-Third, pubs and grub.  Our most local pub is just across the road –
+**Third, pubs and grub**.  Our most local pub is just across the road –
 the Magdalen Arms.  This is a bit of a gastropub, and great for when
 someone is taking you out.  Our local watering-hole is the Rusty Bike
 (quieter and cheaper than the Magdalen Arms), although we also have a
@@ -215,15 +218,15 @@ get phone numbers for private hire taxi companies, visit
 <http://www.dailyinfo.co.uk/oxford/guide/taxi> (this website it worth browsing – it
 has a lot of useful information about living in Oxford).
 
-## Things you will pick up as you go along.
+## Things you will pick up as you go along
 
-### Lost cards/keys.
+### Lost cards/keys
 
 If you misplace your Bod card, you’ll have to contact the College
 Lodge. They can let you in (they have remote control of the electronic
 gate and doors), and can give you a temporary card. Lost Bod cards
 cost £10 to replace; contact the College Office at
-college.office@exeter.ox.ac.uk to arrange this. If you lose your room
+<college.office@exeter.ox.ac.uk> to arrange this. If you lose your room
 key, contact Jim Dobson (weekdays during office hours), Mahima
 Mitra (outside of Jim’s office hours), or the College Lodge in
 order to be given a replacement key. Contact details can be found at
@@ -236,7 +239,7 @@ lovely scout. It is not their job to make your bed, tidy your room, or
 do your dirty dishes; please help them by keeping your home as clean
 and tidy as you can.  You’re grown-ups now.
 
-### Fire alarms.
+### Fire alarms
 
 Every Friday at 10.30am there is a fire alarm test. These may be short
 or last several minutes; unless you are otherwise notified, there is

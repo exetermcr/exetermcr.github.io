@@ -1,8 +1,8 @@
 $content-width: 75%;
 $small-device-list-padding: 1em;
-$page-header-background: #dfdfdf;
+$page-header-background: rgba(200,200,200,0.93);
 $page-header-foreground: black;
-$quick-links-background: wheat;
+$quick-links-background: rgb(245, 222, 179);
 
 article,
 header,
@@ -13,14 +13,18 @@ nav {
 }
 
 html {
-    background: #eee;
+    background: url('images/headers/background.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     padding: 0;
     margin: 0;
 }
 
 ul {
 	margin-left: 0;
-	padding: 0;
+	padding-left: 2em;
 }
 
 div.information {
@@ -71,7 +75,7 @@ div.alert {
 	}
 }
 div.alert-information {
-	background: wheat;
+	background-color: rgba(245, 222, 179,0.9);
     border-bottom: 2px solid brown;
 }
 div.alert-important {
@@ -118,6 +122,7 @@ table.name-phone {
 }
 
 div.header {
+    background-color: rgba(0,0,0,0.1);
 	margin: 0;
     padding: 0;
 	font-size: 140%;
@@ -130,7 +135,7 @@ body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
     font-weight: 400; font-size: 100%;
     color:#111;
-    background-color: white;
+    //background-color: white;
     padding: 0;
     margin: auto;
     width: 60%;
@@ -139,7 +144,7 @@ body {
 
 div#page-header {
     width: auto;
-    background: $page-header-background;
+    background-color: $page-header-background;
     border-bottom: 2px solid grey;
     h2 {
         font-variant: small-caps;
@@ -154,10 +159,9 @@ div#page-header {
 
 div.footer {
     display: block;
-    background: #eee;
     clear: both;
     font-size: 90%;
-    color: grey;
+    color: #bbb;
     ul {
         margin: 0;
         padding-left: 5px;
@@ -168,7 +172,7 @@ div.footer {
         }
     }
     a {
-        color:grey;
+        color:#505050;
     }
     a:hover {
         color:black;
@@ -217,7 +221,7 @@ h3 {
     }
 }
 
-div#body { border: 1px solid grey; }
+div#body { border: 1px solid grey; background-color: white}
 
 div#events {
     float: left;
@@ -261,9 +265,9 @@ div#content {
 }
 
 div.navbar-quick {
-	background: $quick-links-background !important;
+	background-color: $quick-links-background;
 	ul {
-		background: $quick-links-background !important;
+//		background: $quick-links-background !important;
 		margin-top: 0px; padding: 0.3em !important;
 	}
 	a {
@@ -278,16 +282,13 @@ div.navbar-quick {
 }
 
 div.navbar {
-	background: black;
-	ul {
-		background: black;
-	}
+    background-color: rgba(0,0,0,0.7);
 	a {
-		color: gold;
+		color: #eee;
 	}	
     a:hover {
-        background: gold;
-        color: black;
+        background-color: rgba(212, 160, 23, 0.8);
+        color: white;
     }
 }
 div.navbar-structure {
@@ -447,10 +448,10 @@ div.navbar-structure {
 }
 
 h1 {
+    border-bottom: 4px solid black;
     font-variant: small-caps;
 	color: gold;
     font-family: Alegreya, sans-serif;
-	background: black;
     font-weight: normal;
     padding: 8px;
 	width: auto;
@@ -459,7 +460,7 @@ h1 {
 	font-size: 180%;
 	a {
 	  text-decoration: none;
-  	  color: gold;
+  	  color: black;
   	  margin-top: 0;
       vertical-align: top;
 	}
@@ -479,3 +480,4 @@ span.parentlinks { display: none}
 dt { font-weight: bold}
 div#backlinks {margin-bottom: 0; margin-left: 15px}
 div.pagedate { margin-left: 15px}
+
