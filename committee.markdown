@@ -106,7 +106,15 @@ them!
 *bio to be uploaded*
 
 ### *Social Secretary*, Isabelle Yates
-*bio to be uploaded*
+I'm Izzy and I make up one third of the Social Sec team at Exeter. Having
+come from a London university - I did a BA in French at King's College
+London - I am loving now being part of such a close-knit community here in
+college. Joining the MCR Exec was a no-brainer for me, since I love getting
+involved with everything that's going on and doing my bit to try and make
+more things happen which, as Social Sec, means organising events from bops
+to exchange dinners, from punting picnics to pancake day feasts. In my
+short time here I hope to make everyone's social calendars more fun and
+full, and hopefully manage to get my Master's degree done at the same time!
 
 ### *Sports Rep*, Anthony Dickinson
 *bio to be uploaded*
