@@ -35,8 +35,8 @@ enrol or as soon as possible thereafter.
 
 Further information about vaccinations is on the Exeter College Graduate
 Freshers’ Weblearn site, and on these pages on Mumps
-(<http://www.ox.ac.uk/students/shw/health/mumps>) and Men C
-(<http://www.ox.ac.uk/students/shw/health/meningitis>)
+(<http://www.ox.ac.uk/students/shw/health/mumps/>) and Men C
+(<http://www.ox.ac.uk/students/shw/health/meningitis/>)
 
 ### Border crossing
 
@@ -294,7 +294,7 @@ there is a form on the College web-site to help you to request a new card.
 If your card is stolen, then it is very important that you report it stolen
 and request a replacement quickly, so that whoever stole it is prevented
 from entering buildings and pretending to be you.  If you lose your card,
-then there is a fee to pay (<http://www.admin.ox.ac.uk/card/lost>) via the
+then there is a fee to pay (<http://www.admin.ox.ac.uk/card/lost/>) via the
 University store for a replacement, which you have to pay in addition to
 requesting a new card via College; if your card is stolen or damaged, then
 there is no charge for a replacement.
@@ -345,7 +345,7 @@ case. Also note that the Wi-Fi networks are not filtered, which makes
 accessing a particular type of things a bit easier.
 
 More information at
-<http://www.exeter.ox.ac.uk/currentstudents/computing/internet/index>.
+<http://www.exeter.ox.ac.uk/currentstudents/computing/internet/>.
 
 ### Register with the Police
 
