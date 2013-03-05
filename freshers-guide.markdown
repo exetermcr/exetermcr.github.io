@@ -92,7 +92,7 @@ These buses and trains are also relevant should you want to go to London!
 
 The map below shows the relevant bus stops as blue circles, with College and Exeter House marked in yellow.
   
-INSERT IMAGE
+<img src="/images/bus-stops-oxford.png" alt="Bus stops in Oxford">
 
 #### From the airports
 
@@ -264,6 +264,8 @@ commoner’s gown is hip-length).
 
 Archaic as they may seem, the rules of subfusc are actively enforced, as
 this gentleman’s bold light sock adventure during exams clearly shows:
+
+<img src="/images/light-sock-adventure.png">
 
 ## Semi-urgent admin upon arrival
 
