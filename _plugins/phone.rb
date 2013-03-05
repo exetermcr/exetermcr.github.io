@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-      "\u260E \<a href=\"tel:#{@text.gsub('-','').gsub('\s','')}\"\>#{@text.strip}</a>"
+      "\u260E \<a href=\"tel:#{@text.strip.gsub('-','').gsub('\s','')}\"\>#{@text.strip}</a>"
     end
   end
 end
