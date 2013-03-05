@@ -12,6 +12,7 @@ h1, h2, h3 { font-variant: small-caps; color: black }
 h1 { font-size: 95%;}
 h1 img { height: 10px;}
 body { width: auto; font-size: 80%;}
+div#body { border: 0 }
 @page  
 { 
     size: auto;
