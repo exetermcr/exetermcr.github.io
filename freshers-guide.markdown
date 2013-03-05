@@ -273,7 +273,7 @@ this gentleman’s bold light sock adventure during exams clearly shows:
 There are a few things that need to be done over your first few days in
 Oxford.
 
-### Getting your Bod card:
+### Getting your Bod card
 
 Your Bod card (officially called the “University Card”), which is your
 official university ID card, will be handed out by the college staff on
@@ -365,7 +365,7 @@ trip to the police station.  More information at
 Upon arrival, international students will also need to present passports
 and visas to the College Office so they can scan them for their records.
 
-### Open a bank account:
+### Open a bank account
 
 Life is very hard without a bank account (and something in it!). If you
 have not worked or studied in the UK before (or have somehow managed until
@@ -661,14 +661,14 @@ Doctor, or another GP practice in Oxford, unless you are given explicit
 permission by the College not to do so.  The default option is for you to
 register with the College Doctor: 
 
-  Dr Kenyon & Partners
-  19 Beaumont Street Surgery
-  19 Beaumont Street
-  Oxford
-  OX1 2NA
-  TEL: 01865 240501
-  FAX: 01865 240503
-  <http://www.19beaumontstgp.nhs.uk>
+    Dr Kenyon & Partners
+    19 Beaumont Street Surgery
+    19 Beaumont Street
+    Oxford
+    OX1 2NA
+    TEL: 01865 240501
+    FAX: 01865 240503
+    <http://www.19beaumontstgp.nhs.uk>
 
 **Registration forms, on the College’s Graduate Freshers’ Weblearn pages,
 need to be filled in and returned directly to the doctor (not the College)
@@ -703,15 +703,15 @@ If you need a Dentist, you are can use Studental.  However, the College
 makes no requirement to register with a dentist, and many students keep
 their dentist back home as their regular dentist:
 
-  Studental
-  Helena Kennedy Student Centre
-  Oxford Brookes University
-  Headington Hill Campus
-  Headington Road
-  Oxford
-  OX3 0BP
-  reception@studental.co.uk
-  TEL: 01865 484608
+    Studental
+    Helena Kennedy Student Centre
+    Oxford Brookes University
+    Headington Hill Campus
+    Headington Road
+    Oxford
+    OX3 0BP
+    <reception@studental.co.uk>
+    TEL: 01865 484608
 
 When you phone for an appointment you just need to say which college you
 are from and to take your student card with you as proof. There are
