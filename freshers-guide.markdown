@@ -13,7 +13,15 @@ for new students to know and do and, second, on the little details that we
 wish we knew as new students, and which in our opinion can make all the
 difference. 
 
+<div class="information">
+<p><a href="#before-you-arrive">Skip to content</a></p>
+</div>
+
+{:toc}
+1. TOC
+
 ## Before you arrive
+
 ### Vaccinations
 
 Two important vaccines for people coming to the UK are MMR (Measles, Mumps,
@@ -26,16 +34,16 @@ enrol or as soon as possible thereafter.
 
 Further information about vaccinations is on the Exeter College Graduate
 Freshers’ Weblearn site, and on these pages on Mumps
-(<http://www.ox.ac.uk/students/shw/health/mumps> and Men C
+(<http://www.ox.ac.uk/students/shw/health/mumps>) and Men C
 (<http://www.ox.ac.uk/students/shw/health/meningitis>)
 
-### Border crossing:
+### Border crossing
 
 Carry all the immigration documents that you used to apply for the UK visa
 with you in your hand luggage. There have been stories about international
 students being asked to produce all of these on their first entry into the
 UK. For more information about immigration, see the UK Border Agency site
-<http://www.ukba.homeoffice.gov.uk> 
+<http://www.ukba.homeoffice.gov.uk>.
 
 ### Money
 
@@ -48,7 +56,7 @@ fee.
 If possible, open a UK bank account before you come. (There is more
 information below on how to open a bank account.)
 
-### Transport to Oxford: 
+### Transport to Oxford 
 
 Oxford is very well-connected to London and the airports by bus and train.
 
@@ -134,7 +142,7 @@ parking for residents, which makes owning a car in Oxford very difficult
 sections on this). 
 
 
-## What you can expect to find in the room, and what you might want to bring:
+## What you can expect to find in the room, and what you might want to bring
 
 For College accommodation, College provides all the usual essential
 furniture. Notably, there will also be a pillow and a duvet in your room
@@ -287,7 +295,7 @@ University store for a replacement, which you have to pay in addition to
 requesting a new card via College; if your card is stolen or damaged, then
 there is no charge for a replacement.
 
-### Activating your email address and connecting to the internet:
+### Activating your email address and connecting to the internet
 
 The College and the university should provide you with detailed guidance
 and the required credentials to get you online. The process can be a bit of
