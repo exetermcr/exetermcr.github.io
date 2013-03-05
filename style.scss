@@ -343,6 +343,9 @@ div.navbar-structure {
 }
 
 @media (max-width: 640px) {
+    html {
+        background: grey;
+    }
     a.hide {
         display: inherit;
     }
