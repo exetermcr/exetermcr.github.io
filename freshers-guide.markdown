@@ -14,7 +14,8 @@ wish we knew as new students, and which in our opinion can make all the
 difference. 
 
 <div class="information">
-<p><a href="#before-you-arrive">Skip to content</a></p>
+<p><a href="#before-you-arrive">Skip to content</a>;
+<a href="javascript:print()">Print this document</a></p>
 </div>
 
 {:toc}
