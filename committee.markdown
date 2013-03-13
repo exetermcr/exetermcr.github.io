@@ -120,18 +120,7 @@ full, and hopefully manage to get my Master's degree done at the same time!
 *bio to be uploaded*
 
 ### *Exeter House President*, <a href="mailto:exeter-house-president@exetermcr.org">Nikita Kaushal</a>
-I am Nikita Kaushal and I am from India. For those who know a little
-about India, my Mom's from the South and Dad's from the North of
-India, they compromised and settled in the middle in a city called
-Pune which is close to Mumbai. I finished my Bachelors and Masters in
-Pune, majoring in Geology (Yup Geology as in rocks). I worked for an
-NGO for a year working with farmers and groundwater and then did
-research at Pune University on environmental magnetism for a year
-before coming to Oxford. At Oxford I am doing my DPhil in Earth
-Sciences - Paleoclimate and Isotopes Group. When I am not getting
-educated, I like trying my hand at random games (at present thats
-Touch Rugby and Fencing at Oxford), watching movies, travelling and in
-general chilling and doing absolutely nothing.
+*bio to be uploaded*
 
 ### *IT Officer*, <a href="mailto:it@exetermcr.org">Abhishek Dasgupta</a>
 Abhishek is actually an android who is interested in how humans interact with technology, using it to improve their lives and make sense of the world around us. In spare time, Abhishek also takes care of the MCR website and plays table tennis. Previously Abhishek studied physics, but has acknowledged that his nature is better suited to understanding the world using computer science, which Abhishek is happily doing as part of a DPhil.
