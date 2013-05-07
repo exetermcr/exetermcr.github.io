@@ -11,7 +11,7 @@ and currently in my second year.
 
 The Exeter MCR is a vibrant community of people from diverse social and
 academic backgrounds. It is also one of the closest knit and larger
-graduate communities in Oxford. Our social agenda include exchanges with
+graduate communities in Oxford. Our social agenda includes exchanges with
 other colleges in and outside Oxford, BOPs, Friday Tea and Cakes, Exeter
 House socials, Pub Crawls and plenty more. The MCR also provides welfare
 support to its members. It is one of the most exciting communities to be
@@ -103,7 +103,15 @@ count them on, I'm still finding new things to do here so let's enjoy
 them!
 
 ### *Social Secretary*, Andreas Harris
-*bio to be uploaded*
+Hello! I am the least pretty of the Exeter College MCR's social
+secretaries. Our MCR is incredibly tight and has a very enthusiastic active
+membership. As a happy, organising events for such a happy crowd is a very
+rewarding task. Ultimately, the most pleasant aspect of life at Oxford is
+the stimulating environment filled with eclectic characters. The college
+system uniquely facilitates encounters and friendships between individuals
+studying completely different subjects. I see it as my duty to promote this
+mixing, as it was something I personally lacked during my undergraduate,
+and ensure our tights knit community continues!
 
 ### *Social Secretary*, Isabelle Yates
 I'm Izzy and I make up one third of the Social Sec team at Exeter. Having
