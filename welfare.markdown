@@ -40,5 +40,7 @@ Nightline ({% tel 01865 270270 %})
 
 * [Financial support](http://www.exeter.ox.ac.uk/currentstudents/finance/)
   from the College.
-* Oxford University [Student Advice Service](http://ousu.org/welfare/SAS/) run by
-  <abbr title="Oxford University Student Union">OUSU</abbr>
+* Oxford University [Student Advice Service](http://ousu.org/advice/student-advice-service/) run by
+<abbr title="Oxford University Student Union">OUSU</abbr>
+* The University counselling service:
+<http://www.ox.ac.uk/students/shw/counselling/>
