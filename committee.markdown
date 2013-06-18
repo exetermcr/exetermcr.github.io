@@ -22,24 +22,7 @@ an Exonian.
 Always available to listen to your ideas and concerns. Feel free to drop
 in an email or have a chat.
 
-### Vice President, <a href="mailto:vice-president@exetermcr.org">Lachlan Molesworth</a>
-
-I stood for Vice President of the MCR to assist with the running and
-planning of our much loved common room.  I think we are incredibly lucky
-to have such an inclusive and active MCR that provides a remarkably
-homely and happy environment.  I regularly have the conversation with
-colleagues from other colleges about their levels of college
-participation, and believe that there is little comparison with the
-level of engagement that the Exeter community provides.  We are
-fortunate to have a graduate community that is so effective in bringing
-everyone together as a great group.  I for one have had a magnificent
-time getting to know everyone.  I think it is very important to continue
-to have a very active committee, that maintains strong relations with
-the Rector and College management in order to ensure our lively and much
-loved MCR body continues going forward. When I am not in the MCR I
-studying for my Masters of Business Administration (MBA) degree at the
-Oxford University Business School.  Prior to coming up to Oxford I was a
-lawyer in Melbourne, Australia, for the past two years.
+### *Vice President*, John Nickerson 
 
 ### *Treasurer-Elect*, <a href="mailto:treasurers@exetermcr.org">Francisca Gale</a>
 
@@ -113,18 +96,10 @@ studying completely different subjects. I see it as my duty to promote this
 mixing, as it was something I personally lacked during my undergraduate,
 and ensure our tights knit community continues!
 
-### *Social Secretary*, Isabelle Yates
-I'm Izzy and I make up one third of the Social Sec team at Exeter. Having
-come from a London university - I did a BA in French at King's College
-London - I am loving now being part of such a close-knit community here in
-college. Joining the MCR Exec was a no-brainer for me, since I love getting
-involved with everything that's going on and doing my bit to try and make
-more things happen which, as Social Sec, means organising events from bops
-to exchange dinners, from punting picnics to pancake day feasts. In my
-short time here I hope to make everyone's social calendars more fun and
-full, and hopefully manage to get my Master's degree done at the same time!
+### *Social Secretary*, Joe Tarrant
+*bio to be uploaded*
 
-### *Sports Rep*, Anthony Dickinson
+### *Sports Rep*, Fern Dowdall
 *bio to be uploaded*
 
 ### *Exeter House President*, <a href="mailto:exeter-house-president@exetermcr.org">Nikita Kaushal</a>
@@ -157,3 +132,6 @@ our interest as College library users.  It is well known that I am a
 "low impact" Library user since I am hardly ever there but you can
 always feed me in with your Library related issues, just send me an
 e-mail..
+
+### *Fresher's Representative*, Katie Krolopp
+*bio to be uploaded*
