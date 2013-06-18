@@ -23,6 +23,7 @@ Always available to listen to your ideas and concerns. Feel free to drop
 in an email or have a chat.
 
 ### *Vice President*, John Nickerson 
+*bio to be uploaded*
 
 ### *Treasurer-Elect*, <a href="mailto:treasurers@exetermcr.org">Francisca Gale</a>
 
@@ -64,19 +65,8 @@ cravings for anything doused in maple syrup or powdered sugar. For those
 inclined to occasional spa therapy/pampering sessions, she will make
 proposals to amply provide for such indulgences.
 
-### *Welfare Officer*, <a href="mailto:welfare@exetermcr.org">Roxane Barsky</a>
-
-Hello there. I'm known to most as Roxy (Sting stole my
-thunder). Originally from a small town in Dorset, I went to King's
-College London to learn about History before coming to Oxford to learn
-about it some more. After this year however, I think I will have learnt
-enough! I have strong views about what makes a perfect cup of tea, and
-the optimum dunking biscuit, hence I believe myself to be well suited to
-the role of Welfare Officer! I also like the occasional inspirational
-quote and proverb which I believe can do wonders to lift human spirit. I
-dish these out free of charge and always have a ready supply.
-
-### *Social Secretary*, <a href="mailto:social@exetermcr.org">Imogen Parry
+### *Social Secretary*, <a href="mailto:social@exetermcr.org">Imogen
+Parry</a>
 Hi, my name is Imogen and I am delighted to be one of your new social
 secretaries!  Andrew, Birgit and Yue-Yi are a hard act to follow but I
 promise to try and make our bops as good as theirs, and to provide
