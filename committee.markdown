@@ -65,8 +65,7 @@ cravings for anything doused in maple syrup or powdered sugar. For those
 inclined to occasional spa therapy/pampering sessions, she will make
 proposals to amply provide for such indulgences.
 
-### *Social Secretary*, <a href="mailto:social@exetermcr.org">Imogen
-Parry</a>
+### *Social Secretary*, <a href="mailto:social@exetermcr.org">Imogen Parry</a>
 Hi, my name is Imogen and I am delighted to be one of your new social
 secretaries!  Andrew, Birgit and Yue-Yi are a hard act to follow but I
 promise to try and make our bops as good as theirs, and to provide
