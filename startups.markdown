@@ -3,9 +3,13 @@ layout: page
 title: Startups
 ---
 
-Some of aur alumni have founded startups:
+Some of our alumni have founded startups:
 
-## Swapplr
+## Swapplr (<http://swapplr.com>)
+
+<img width="100%" src="/images/swapplr.png">
+
+<img width="100%" src="/images/swapplr-team.png">
 
 Swapplr is a swapping and trading app with unique social features tailored
 for students, and small-scale independent retailers. It provides these two
@@ -23,7 +27,7 @@ they no longer require many of these items, all of which then are the
 perfect products for new students just starting the university. 
 
 The journey began when Riham Satti and Vivek Doraiswamy – the brains behind
-Swapplr – met one late ..month... evening at a bop (oxon-speak for college
+Swapplr – met one late June evening at a bop (oxon-speak for college
 party) at Riham's college in Oxford – Green Templeton. The conversation
 touched on everything from the weather (as it must in England) to work, to
 the latest in gadgets. Vivek, as it turned out, had a friend who wanted to
