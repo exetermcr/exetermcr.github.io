@@ -69,8 +69,8 @@ and take about an hour. For schedules, see <http://www.nationalrail.co.uk>.
 The cost will differ depending on the tariff, and what rail cards you have.
 Peak time is very expensive (early mornings and late afternoons), but a
 standard off-peak ticket will cost a little over £20.  To get from the
-railway station to Exeter House, either take a Number 5 bus (and change
-onto a Number 3 at Queen’s Lane stop on the High Street), or a taxi (a taxi
+railway station to Exeter House, either take a Number 3 bus (the stop
+closet to Exeter House is outside the Magdalen Arms pub), or a taxi (a taxi
 will cost about £10, and taxis are always available at the railway
 station). From 30 September, the Number 3 bus is being extended to start at
 the Oxford Railway Station, so there will be a direct bus from Exeter House
@@ -90,6 +90,11 @@ opposite the Queen’s College) to the Magdalen Arms, which is next to Exeter
 House. 
 
 These buses and trains are also relevant should you want to go to London!
+If you plan to travel regularly by train it is worth investing in a young
+persons railcard (for 16 to 25 year olds). It costs £30 and gives you a 1/3
+off rail fare for a year. Similarly if you intend to use the Oxford Tube
+service regularly you can purchase an Oxford Tube 12 pass which gives you
+12 journeys for £60 making the journeys a little bit cheaper.
 
 The map below shows the relevant bus stops as blue circles, with College and Exeter House marked in yellow.
   
@@ -199,8 +204,7 @@ viva voce exams for DPhil students), and for graduation and as such it is
 the most official attire. Girls’ sub-fusc has traditionally consisted of a
 dark skirt or trousers, black stockings or tights, black shoes, white shirt
 with collar and black ribbon tie. Boys’ has traditionally been a dark suit,
-white shirt, white bow-tie, dark socks and black shoes. However, as of this
-summer (2012), there is no actual stipulation to wear gender-specific items
+white shirt, white bow-tie, dark socks and black shoes. However, as of 2012, there is no actual stipulation to wear gender-specific items
 should you wish not to. In practice, this means that you can choose for
 yourself whether to wear a skirt or trousers or suit, and you can choose
 for yourself whether to wear the black string tie or the white bow tie, or
@@ -244,8 +248,7 @@ a few variations, if you want to enjoy them:
   would have gained had you done your Cambridge/TCD degrees here at Oxford.
 
 Do note that subfusc and academic dress officially are two separate things
-(although they are often lumped together): the gentleman on the right is
-wearing academic dress *together* with subfusc clothing. To clear up some
+(although they are often lumped together). To clear up some
 further confusion: for many events (for example, the College’s Graduate
 Freshers’ Dinner in Week 1 of Michaelmas Term) you need regular (formal)
 clothing together with *just your gown*, not with full subfusc as described
@@ -305,7 +308,7 @@ The College and the university should provide you with detailed guidance
 and the required credentials to get you online. The process can be a bit of
 a hassle, but it is very important to complete quickly, as email is the
 main means of official communication. Please get in touch with the College
-IT department (by e-mail, or at their offices near the Bursary) or any of
+IT department (by e-mail at <mailto:it-help@exeter.ox.ac.uk>, or at their offices near the Bursary) or any of
 the MCR committee if you are unable to do this.
 
 You will get two accounts: (1) an Oxford University username, for anything
@@ -427,7 +430,7 @@ Your college parent will ideally contact you before you come up to Oxford;
 however, some may find themselves abroad for research or field work over
 the summer, with limited access to email. If you haven’t heard anything
 from your parent by mid-September, please let the Freshers’ Rep know
-(Tiffany Chezum, <mailto:tiffany.chezum@exeter.ox.ac.uk>). She will contact
+(Esther Kwan, <mailto:esther.kwan@exeter.ox.ac.uk>). She will contact
 your parent and attempt to sort out any confusion. 
 
 ### Don’t miss the University Freshers’ Fair
@@ -447,8 +450,13 @@ go to the venue on your own if you wish, all Freshers are invited to gather
 in the MCR fifteen minutes before the given time in order to walk over to
 as a group. 
 
-*Exeter students can attend the Freshers’ Fair between 11 a.m. and 12 noon
-on Thursday, 4 October, 2012.*
+*Exeter students can attend the Freshers’ Fair between TODO*.
+
+In addition to the university-wide Freshers’ Fair, there is an Exeter
+College fair on . . . . This is organised by the JCR and is designed to
+show you some of the clubs and societies on offer within the college.
+Joining a college team is a great opportunity to try something new, as in
+most cases no previous experience is needed.
 
 ## After the initial shock is over
 
@@ -472,7 +480,7 @@ machines, and Sky TV.
 
 #### Library
 
-A lovely, cozy place to hole up for an afternoon of studying, the College
+A lovely, cosy place to hole up for an afternoon of studying, the College
 library is open 24 hours a day and has a decent, although not exhaustive
 collection of texts.  Graduates can borrow up to 20 books for the whole
 term and the library is happy to receive suggestions from you for purchase;
@@ -503,6 +511,8 @@ Sunday, Tuesday, Wednesday and Thursday at 7:15pm. Formal dress and
 academic gowns required, and you must sign up and pay in advance online,
 usually by 1:30pm on the day, though Sunday Dinner lists close at 1.30 pm
 on the preceding Friday.
+
+Members of the MCR have graduate high table rights.
 
 There is also a Pick-and-Pay cafeteria in the bar on weekdays of term from
 8am to 3:30pm, serving breakfast items until 10am and an assortment of
@@ -550,6 +560,29 @@ The main computer room in College has a large number of computers,
 printers, scanners and a photocopier. Located underground in the Back Quad
 and accessed by swiping your Bod card.
 
+## Fellows Garden
+
+The Fellows Garden is open from 2pm to 8pm and is a great place to relax
+and unwind, it also boasts the “best view in Oxford” over the Radcliffe
+Camera. Croquet facilities are available from the Porter’s Lodge for a £5
+deposit and can be played in the Fellow Garden.
+
+## College Punts
+As a member of the MCR you have access to the college punt free of charge.
+This service is available during term-time and you can reserve the punt at
+the Porter’s Lodge 24 hours prior to when you want to use it.
+
+## Iffley Road Gym
+The Oxford University gym and swimming pool is located on Iffley Road
+(conveniently close to Exeter House). In addition to the gym and pool there
+are squash courts, tennis courts, an athletics track and more. There is
+also a small gym in college, in the basement of staircase 11, it has a
+treadmill, rowing machines, weights and multi-gym equipment. This is a free
+facility but you will need to complete an induction session. These are held
+in the first weeks of Michaelmas Term and you can sign up to a session at
+the Porter’s Lodge.
+
+
 #### Exeter House Facilities
 
 Communal areas are the Pavilion (post-room and TV room) and the Chapel Room
@@ -574,8 +607,8 @@ damaged, or stolen, then there is no replacement fee.
 
 If you lose your Exeter House room key, you will need to contact Jim Dobson
 (01865 245472) who is available on weekdays during office hours.  Out of
-hours, contact Mahima Mitra, the Hostels Warden who lives in a flat at
-Exeter House (07510 924088), or the College Lodge (01865 279600), in order
+hours, contact TODO, the Hostels Warden who lives in a flat at
+Exeter House (TODO), or the College Lodge (01865 279600), in order
 to be given a temporary key. Replacement keys can be obtained at a cost of
 £50.
 
@@ -721,13 +754,9 @@ leaflets about Studental outside the Exeter College nurse's room (Staircase
 
 #### The College nurse
 
-The College has a nurse, who deals with minor ailments, dressings etc. She
-is on duty on most days of the week, and has a room in college. However,
-because the College nurse retired in summer 2012, and the College is
-recruiting a new nurse for the coming academic year, the details of exactly
-what the location, schedule, and duties of the nurse are going to be are
-not yet confirmed. However, they will undoubtedly be circulated to all
-students via email at the start of the year – so watch your inboxes!
+The College nurse, Sarah Dragonetti, deals with minor ailments, dressings etc. She
+is on duty on most days of the week, and can be found in room 7:1 or
+contacted on 01865 279639.
 
 #### First aid
 
@@ -917,10 +946,11 @@ some University-wide schemes.
 
 #### MCR Graduate Welfare Officer
 
-The MCR Graduate Welfare Officer is Emily Dolmans. She represents and deals
-with the general concerns of all members of the graduate community in the
-areas of welfare, personal security, accommodation and academic needs. She
-can be contacted by email at emily.dolmans@exeter.ox.ac.uk.
+The MCR Graduate Welfare Officers are Esther Kwan and Ben Cousins. They
+represent and deal with the general concerns of all members of the
+graduate community in the areas of welfare, personal security,
+accommodation and academic needs. They can be contacted by email at
+<mailto:welfare@exetermcr.org>.
 
 #### Tutor for Graduates
 
@@ -945,7 +975,7 @@ students at Exeter.
 
 #### Chaplain
 
-The College Chaplain (The Revd Stephen Hearn, Staircase 9:8, tel. 79610)
+The College Chaplain (Andrew Allen)
 offers counsel and pastoral support to all members of Exeter College,
 regardless of their religious beliefs. The Freshers' Fair will also include
 representatives from the different spiritual communities at Oxford.
@@ -1051,13 +1081,14 @@ confirmation that they have passed their degree course.
 
 ## Contact Information
 
-* Freshers’ Rep: Tiffany Chezum, tiffany.chezum@exeter.ox.ac.uk
-* President: Maxim Polyakov, maxim.polyakov@exeter.ox.ac.uk
-* VP: Stein Belderok, stein.belderok@exeter.ox.ac.uk
-* Treasurer: Sam Denny, samuel.denny@exeter.ox.ac.uk
-* Welfare Officer: Emily Dolmans, emily.dolmans@exeter.ox.ac.uk
-* Social Secretaries: Andrew Bissette, andrew.bissette@exeter.ox.ac.uk; Yue-Yi Hwa, yue.hwa@exeter.ox.ac.uk; Birgit Mikus, birgit.mikus@exeter.ox.ac.uk
-* IT Officer: Abhishek Dasgupta, abhishek.dasgupta@exeter.ox.ac.uk
+* Freshers’ Rep: Esther Kwan,
+  <mailto:freshers-representative@exetermcr.org>
+* President: Challenger Mishra, <mailto:president@exetermcr.org>
+* VP: John Nickerson, <mailto:vice-president@exetermcr.org>
+* Treasurer: Francisca Gale, <mailto:treasurers@exetermcr.org>
+* Welfare Officers: Esther Kwan and Ben Cousins, <mailto:welfare@exetermcr.org>
+* Social Secretaries: Andreas Harris, Joe Tarrant and Imogen Parry, <mailto:social@exetermcr.org>
+* IT Officer: Abhishek Dasgupta, <mailto:it@exetermcr.org>
 
 ### Glossary
 
