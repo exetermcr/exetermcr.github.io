@@ -41,7 +41,7 @@ the MCR in the chair next to the kitchen.
 
 Sam is a second-year DPhil student in Physics, and MCR treasurer for the year 2012-2013.  Frequently to be seen around college, Sam will manage the MCR accounts for the next year and ensure that the MCR can provide a supportive and enjoyable community within the limitations of its budget.
 
-### *Welfare Officer*, <a href="mailto:treasurers@exetermcr.org">Esther Kwan</a>
+### *Welfare Officer*, <a href="mailto:welfare@exetermcr.org">Esther Kwan</a>
 
 Esther completed a B.A. in Government and a B.Sc. in Urban and Regional
 Studies at Cornell University. After her undergraduate degree, she
@@ -64,6 +64,9 @@ the entire MCR at least once a term, hopefully satisfying your mid-day
 cravings for anything doused in maple syrup or powdered sugar. For those
 inclined to occasional spa therapy/pampering sessions, she will make
 proposals to amply provide for such indulgences.
+
+### *Welfare Officer*, <a href="mailto:welfare@exetermcr.org">Benjamin Cousins</a>
+**bio to be uploaded**
 
 ### *Social Secretary*, <a href="mailto:social@exetermcr.org">Imogen Parry</a>
 Hi, my name is Imogen and I am delighted to be one of your new social
