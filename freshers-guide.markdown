@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Fresher's Guide
+alert: <b>Draft</b>. This article is being updated for 2013. Some sections are incomplete.
+alert-type: information
 ---
 
 There are many guides available for new students in Oxford. Different
