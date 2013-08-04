@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Fresher's Guide
 alert: <b>Draft</b>. This article is being updated for 2013. Some sections are incomplete.
@@ -593,6 +593,7 @@ Communal areas are the Pavilion (post-room and TV room) and the Chapel Room
 
 ### What to do if you’ve lost your Bod card or Keys?
 
+
 If you lose your Bod card and are unable to access your building or room,
 you can contact the College Lodge (01865 279600). They can let you in (they
 have remote control of the electronic gate and doors), and can also give
@@ -613,6 +614,8 @@ hours, contact TODO, the Hostels Warden who lives in a flat at
 Exeter House (TODO), or the College Lodge (01865 279600), in order
 to be given a temporary key. Replacement keys can be obtained at a cost of
 £50.
+
+<img width="100%" src="/images/lost-keys.gif">
 
 ### How to get forms signed by College
 
@@ -1061,6 +1064,8 @@ website. Another resource worth keeping in mind is the OUSU Mind Your Head
 Campaign: <http://mindyourheadoxford.wordpress.com/>
 
 ### Graduation
+
+<img src="/images/graduation.jpg" width="100%">
 
 It may seem odd to have a message about graduation in a guide aimed at
 people who have yet to start their course.  However, there is nothing like
