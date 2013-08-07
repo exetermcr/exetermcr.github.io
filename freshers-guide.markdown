@@ -1,4 +1,4 @@
---
+---
 layout: page
 title: Fresher's Guide
 alert: <b>Draft</b>. This article is being updated for 2013. Some sections are incomplete.
