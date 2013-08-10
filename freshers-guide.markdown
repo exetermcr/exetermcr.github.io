@@ -310,7 +310,7 @@ The College and the university should provide you with detailed guidance
 and the required credentials to get you online. The process can be a bit of
 a hassle, but it is very important to complete quickly, as email is the
 main means of official communication. Please get in touch with the College
-IT department (by e-mail at <mailto:it-help@exeter.ox.ac.uk>, or at their offices near the Bursary) or any of
+IT department (by e-mail at <mailto:it-help@exeter.ox.ac.uk>, or at their office in the Balsdon Room) or any of
 the MCR committee if you are unable to do this.
 
 You will get two accounts: (1) an Oxford University username, for anything
