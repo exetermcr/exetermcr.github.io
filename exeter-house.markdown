@@ -156,10 +156,9 @@ with you the first time!
 There are two computers and a printer in the Chapel for use by members
 of Exeter College. In order to log on you will need an Exeter College
 IT account. You will receive details about this from the College
-shortly after the you move in. Wi-Fi is available in all communal
-areas of EH, but not in most bedrooms. The IT department can be
-contacted at <it-help@exeter.ox.ac.uk>. Ethernet cables are available
-from the IT department located in the tower besides the Rector's lodgings.
+shortly after the you move in. WiFi (eduroam and OWL networks) should be available in all communal
+areas and bedrooms. The IT department can be
+contacted at <it-help@exeter.ox.ac.uk>.
 
 ### Local facilities
 
