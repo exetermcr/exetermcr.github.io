@@ -315,39 +315,13 @@ the MCR committee if you are unable to do this.
 
 You will get two accounts: (1) an Oxford University username, for anything
 related to the University and for a remote access account (for accessing
-the University’s wiles network, and for accessing restricted resources if
+the University’s wireless network, and for accessing restricted resources if
 you live out of College or University accommodation) and (2) an Exeter
 College login, purely for accessing the College computers, for printing in
 College, and, for those in College accommodation, for your first-time
 internet access from your room.  Your Oxford University username will be
 e-mailed to you by the University (not by Exeter College) when your
 University contract has been returned and processed.
-
-Exeter House unfortunately only provides Wi-Fi in the communal areas and
-not in all the student rooms, but a LAN cable should be present when you
-arrive (otherwise, it can be purchased from college for £3), and simply
-plugging it in and starting a browser starts the registration procedure.
-The process includes an automatic system scan that ensures that your
-computer is up-to-date and in compliance with security requirements, needed
-because your connection puts you directly on the main University network.
-In case the scan fails because of your antivirus software (it can be
-picky), you are directed to download the antivirus software Sophos, which
-the University provides free of charge. Wi-Fi registration is a separate
-process and is best done after your main connection is in place – details
-are on the College website. Again, if you have any trouble with either the
-equipment, the activation codes or remote access, please contact the very
-helpful IT department.
-
-Lastly, College works with a content filter on the cabled connection. It is
-in place mainly to prevent the high bandwidth network being used as a
-server for file-sharing (as it would otherwise automatically attract the
-lion share of traffic), but College has also deemed some other content
-inappropriate. In practice this means for instance no torrents and no
-explicit material. Rest assured that freedom of information stays paramount
-and that the restrictions are very limited, and if there is anything
-whatsoever that you feel should be accessible, you could always make a
-case. Also note that the Wi-Fi networks are not filtered, which makes
-accessing a particular type of things a bit easier.
 
 More information at
 <http://www.exeter.ox.ac.uk/currentstudents/computing/internet/>.
