@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Fresher's Guide
+alert: <b>Draft</b>. This article is being updated for 2013. Some sections are incomplete.
+alert-type: information
 ---
 
 There are many guides available for new students in Oxford. Different
@@ -70,7 +72,7 @@ The cost will differ depending on the tariff, and what rail cards you have.
 Peak time is very expensive (early mornings and late afternoons), but a
 standard off-peak ticket will cost a little over £20.  To get from the
 railway station to Exeter House, either take a Number 3 bus (the stop
-closet to Exeter House is outside the Magdalen Arms pub), or a taxi (a taxi
+closest to Exeter House is outside the Magdalen Arms pub), or a taxi (a taxi
 will cost about £10, and taxis are always available at the railway
 station). From 30 September, the Number 3 bus is being extended to start at
 the Oxford Railway Station, so there will be a direct bus from Exeter House
@@ -116,7 +118,7 @@ these airports to London by train, though you’ll have to change between
 stations in London.
 
 Another alternative is to fly to Birmingham or Southampton, both of which
-cites are well-connected to Oxford by train.
+cities are well-connected to Oxford by train.
 
 #### Coming by car
 
@@ -284,8 +286,7 @@ official university ID card, will be handed out by the college staff on
 Wednesday of Freshers’ Week at that day’s induction session. However, if
 you need it before that (and you probably will), you can come to College
 Office to collect it.  The College Office is in the far back corner of
-College (ask at the College Porters’ Lodge for directions), and is open
-0830–1200 and 1230–1630 Monday to Friday (until 1600 on Friday).
+College (ask at the College Porters’ Lodge for directions).
 
 The Bod card allows you access into the University and College buildings –
 including Exeter House – and the MCR; you pay for food and drinks in
@@ -308,44 +309,17 @@ The College and the university should provide you with detailed guidance
 and the required credentials to get you online. The process can be a bit of
 a hassle, but it is very important to complete quickly, as email is the
 main means of official communication. Please get in touch with the College
-IT department (by e-mail at <mailto:it-help@exeter.ox.ac.uk>, or at their offices near the Bursary) or any of
+IT department (by e-mail at <mailto:it-help@exeter.ox.ac.uk>, or at their office in the Balsdon Room) or any of
 the MCR committee if you are unable to do this.
 
 You will get two accounts: (1) an Oxford University username, for anything
 related to the University and for a remote access account (for accessing
-the University’s wiles network, and for accessing restricted resources if
+the University’s wireless network, and for accessing restricted resources if
 you live out of College or University accommodation) and (2) an Exeter
-College login, purely for accessing the College computers, for printing in
-College, and, for those in College accommodation, for your first-time
-internet access from your room.  Your Oxford University username will be
+College login, purely for accessing the College computers and for printing in
+College. Your Oxford University username will be
 e-mailed to you by the University (not by Exeter College) when your
 University contract has been returned and processed.
-
-Exeter House unfortunately only provides Wi-Fi in the communal areas and
-not in all the student rooms, but a LAN cable should be present when you
-arrive (otherwise, it can be purchased from college for £3), and simply
-plugging it in and starting a browser starts the registration procedure.
-The process includes an automatic system scan that ensures that your
-computer is up-to-date and in compliance with security requirements, needed
-because your connection puts you directly on the main University network.
-In case the scan fails because of your antivirus software (it can be
-picky), you are directed to download the antivirus software Sophos, which
-the University provides free of charge. Wi-Fi registration is a separate
-process and is best done after your main connection is in place – details
-are on the College website. Again, if you have any trouble with either the
-equipment, the activation codes or remote access, please contact the very
-helpful IT department.
-
-Lastly, College works with a content filter on the cabled connection. It is
-in place mainly to prevent the high bandwidth network being used as a
-server for file-sharing (as it would otherwise automatically attract the
-lion share of traffic), but College has also deemed some other content
-inappropriate. In practice this means for instance no torrents and no
-explicit material. Rest assured that freedom of information stays paramount
-and that the restrictions are very limited, and if there is anything
-whatsoever that you feel should be accessible, you could always make a
-case. Also note that the Wi-Fi networks are not filtered, which makes
-accessing a particular type of things a bit easier.
 
 More information at
 <http://www.exeter.ox.ac.uk/currentstudents/computing/internet/>.
@@ -362,7 +336,7 @@ police to be recorded on your certificate, for instance if you get a new
 passport, or if you change address during your time in the UK. 
 
 The police have a registration desk at the University’s International
-Student Orientation Programme on Friday, 28 September, which saves you a
+Student Orientation Programme which saves you a
 trip to the police station.  More information at
 <http://www.ox.ac.uk/students/international_students/visaduring/police/>.
 
@@ -376,8 +350,7 @@ have not worked or studied in the UK before (or have somehow managed until
 now to do so without a UK current account), then you will need one whilst
 at Oxford.  To open one, you have two main options: (1) do it whenever you
 like by going to the bank itself or (2) go to the International Students'
-Orientation Programme (on Thursday 27 September and Friday 28 September at
-Exam Schools, just before Freshers' Week) or the Freshers Fair (this takes
+Orientation Programme (at Exam Schools, <http://www.ox.ac.uk/students/new/orientation/>) or the Freshers' Fair (this takes
 place in Freshers’ Week), where representatives of the whole range of banks
 will be present (more on the Freshers’ Fair below). In our experience, the
 banks’ offers at the Fair are not different from what they otherwise are. 
@@ -403,7 +376,7 @@ procedure. Persevere!
 
 Be aware that the contents of your room are not automatically insured. If
 you want to get insurance, it is easily done through for instance your bank
-or by googling specialised student insurers. In our experience the large
+or by searching for specialised student insurers on the internet. In our experience the large
 majority of Exeter House residents choose not to insure and express little
 regret over it afterwards. However, the College strongly recommends that
 you insure your personal possessions: unfortunately, and although Oxford is
@@ -426,7 +399,7 @@ Oxford, whether academic, or to do with life in the city or in the UK –
 they have each specifically volunteered for this very purpose and will
 welcome the opportunity to help you so far as they can. 
 
-Your college parent will ideally contact you before you come up to Oxford;
+Your college parent will ideally contact you before you come to Oxford;
 however, some may find themselves abroad for research or field work over
 the summer, with limited access to email. If you haven’t heard anything
 from your parent by mid-September, please let the Freshers’ Rep know
@@ -435,28 +408,26 @@ your parent and attempt to sort out any confusion.
 
 ### Don’t miss the University Freshers’ Fair
 
-This is the only time in the year when all of Oxford’s Clubs and Societies
+This is the only time in the year when all of Oxford’s clubs and societies
 – with interests ranging from sports to music to national spirit to
 spirituality to charities to politics – put their representatives in one
 place. This is the best place to find out what Oxford has to offer outside
 of studies, and to join in the life of the university community by signing
-up for whatever groups capture your interest.
+up for whatever groups that capture your interest.
 
 Each college is given a time slot during Freshers’ Week when its new
 students may attend the fair, which is held in the Examination Schools on
 High Street. Closer to the date, Exeter’s time slot will be announced and
 you will each be provided with a ticket allowing you entry. While you may
 go to the venue on your own if you wish, all Freshers are invited to gather
-in the MCR fifteen minutes before the given time in order to walk over to
+in the MCR fifteen minutes before the given time in order to walk over to the fair
 as a group. 
 
-*Exeter students can attend the Freshers’ Fair between TODO*.
-
-In addition to the university-wide Freshers’ Fair, there is an Exeter
+**In addition to the university-wide Freshers’ Fair, there is an Exeter
 College fair on . . . . This is organised by the JCR and is designed to
 show you some of the clubs and societies on offer within the college.
 Joining a college team is a great opportunity to try something new, as in
-most cases no previous experience is needed.
+most cases no previous experience is needed.**
 
 ## After the initial shock is over
 
@@ -464,9 +435,9 @@ most cases no previous experience is needed.
 
 #### MCR (Middle Common Room)
 
-The MCR is a suite of six rooms (situated in Staircase 6 in College)
-specifically appointed for the use of graduates and comprises two sitting
-rooms, a kitchen, study room, computer room, and washroom. Here you can
+The MCR is a suite of six rooms (situated in Staircase 8 in College)
+specifically for the use of graduates and comprises two sitting
+rooms, a kitchen, study room, computer room, and a washroom. Here you can
 relax, drink free coffee or tea, make food in the kitchen, read newspapers,
 play board-games and the piano, use college computers (of which there are
 four), do your printing and scanning, stash your things in a private
@@ -512,8 +483,6 @@ academic gowns required, and you must sign up and pay in advance online,
 usually by 1:30pm on the day, though Sunday Dinner lists close at 1.30 pm
 on the preceding Friday.
 
-Members of the MCR have graduate high table rights.
-
 There is also a Pick-and-Pay cafeteria in the bar on weekdays of term from
 8am to 3:30pm, serving breakfast items until 10am and an assortment of
 sandwiches, panini, salad, soup, soft drinks, coffee, fruit, and snacks in
@@ -542,7 +511,7 @@ help you out in general. The post-room and “pidges” (pigeon holes) where
 students’ mail is deposited, is also in the Lodge. 
 
 Sometimes you will see graduate students working part-time in the Lodge:
-these are recruited and trained by the Head Lodge Porter, when a vacancy
+they are recruited and trained by the Head Lodge Porter, when a vacancy
 occurs. 
 
 #### Chapel
@@ -557,8 +526,9 @@ listen.
 #### Balsdon Room
 
 The main computer room in College has a large number of computers,
-printers, scanners and a photocopier. Located underground in the Back Quad
-and accessed by swiping your Bod card.
+printers, scanners and a photocopier, located underground in the Back Quad
+and accessed by swiping your Bod card. It is also home to the IT support of
+Exeter College.
 
 ## Fellows Garden
 
@@ -579,7 +549,7 @@ are squash courts, tennis courts, an athletics track and more. There is
 also a small gym in college, in the basement of staircase 11, it has a
 treadmill, rowing machines, weights and multi-gym equipment. This is a free
 facility but you will need to complete an induction session. These are held
-in the first weeks of Michaelmas Term and you can sign up to a session at
+in the first weeks of Michaelmas Term and you can sign up for a session at
 the Porter’s Lodge.
 
 
@@ -591,6 +561,7 @@ Communal areas are the Pavilion (post-room and TV room) and the Chapel Room
 
 ### What to do if you’ve lost your Bod card or Keys?
 
+
 If you lose your Bod card and are unable to access your building or room,
 you can contact the College Lodge (01865 279600). They can let you in (they
 have remote control of the electronic gate and doors), and can also give
@@ -598,7 +569,7 @@ you a temporary card, issued from the Lodge until you can get a
 replacement.
 
 To get a replacement Bod card, you need to fill in a form requesting this
-(available from the College website), and to drop this into the College
+(available from the College website), and drop this at the College
 Office.  Your replacement card will be sent to the College Office for you
 to collect.  Lost Bod cards cost £10 to replace, which you have to pay at
 the University’s online store (see:
@@ -607,10 +578,12 @@ damaged, or stolen, then there is no replacement fee.
 
 If you lose your Exeter House room key, you will need to contact Jim Dobson
 (01865 245472) who is available on weekdays during office hours.  Out of
-hours, contact TODO, the Hostels Warden who lives in a flat at
-Exeter House (TODO), or the College Lodge (01865 279600), in order
+hours, contact James Crocker <mailto:james.crocker@exeter.ox.ac.uk>, the Assistant Junior Dean who lives in a flat at
+Exeter House, or the College Lodge (01865 279600), in order
 to be given a temporary key. Replacement keys can be obtained at a cost of
 £50.
+
+<img width="100%" src="/images/lost-keys.gif">
 
 ### How to get forms signed by College
 
@@ -618,7 +591,7 @@ From time to time, you will need to get a form signed by your College.
 Here’s how:
 
 If you need a form signed by the “Tutor for Graduates” (who in Exeter
-College is also known as the Academic Dean – see below), then hand it into
+College is also known as the Academic Dean – see below), then hand it to
 the Porters’ Lodge or the College Office, FAO the Academic Dean, with a
 short cover note explaining what you want done, and to whom the form should
 be sent next (i.e. returned to you, sent to someone else for signing,
@@ -670,7 +643,7 @@ with, but for which you still want some advice, then you can consult a
 pharmacist.  Pharmacies can give simple medical advice and offer you some
 medicines without prescription, including emergency contraception.
 Pharmacies are also the places to go to collect your prescription, if your
-GP prescribes some medicine for you. Some pharmacies open out of hours, and
+GP prescribes some medicine for you. Some pharmacies are open out of hours, and
 can give advice when a doctor is not open (for example, on the weekend, or
 on a public holiday).  The closest pharmacies to the main College site are
 located inside Boot’s (Cornmarket St) and Boswell’s (Broad St/Cornmarket
@@ -733,7 +706,7 @@ appointments and cancellation are released daily at that time.
 
 #### Our dentist
 
-If you need a Dentist, you are can use Studental.  However, the College
+If you need a Dentist, you can use Studental.  However, the College
 makes no requirement to register with a dentist, and many students keep
 their dentist back home as their regular dentist:
 
@@ -763,8 +736,8 @@ contacted on 01865 279639.
 Emergencies requiring First Aid should be notified as soon as possible to
 the Lodge (01865 279600) or to the appropriate Hostel Warden. (Lists of
 First Aiders are also published on notice boards around the college
-premises, and include the lodge staff, the Junior Dean, and the Exeter
-House Warden.)
+premises, and include the lodge staff, the Junior Dean, and the Assistant
+Junior Dean.)
 
 Emergency Medical boxes are kept at College in the Lodge, the Kitchen and
 the College Office, and at Exeter House and Stapeldon House.
@@ -778,8 +751,7 @@ For eye emergencies, call the Oxford Eye Hospital in the JR. The 24 hour
 emergency number is 01865 234800.
 
 The GUM (Genito-Urinary Medicine) clinic is in the Churchill Hospital,
-which is part of the JR complex. The link to their website can be found
-here.
+which is part of the JR complex.
 
 Contraception is available free from the doctors or at the Alec Turnbull
 Clinic on Cowley Road. A condom machine is located at the bottom of
@@ -802,7 +774,8 @@ are particular favourites, students report that they prefer these to Cycle
 King). It is worth shopping around for special start-of-term deals, which
 usually include a helmet, a lock, and lights. The Oxford Union also do an
 annual start-of year bike sale, and there are many bikes being sold person
-to person on the internet. As bike theft is one of the most common crimes
+to person on the internet (<http://www.dailyinfo.co.uk> is a popular site
+for such things). As bike theft is one of the most common crimes
 in Oxford, it is worth investing in a strong D-lock rather than a simple
 chain.  If your bike is stolen, please report it to the Police on their
 non-emergency number (dial: 101); if you see a theft in progress, then
@@ -877,7 +850,7 @@ Road towards Rose Hill leaves the Bonn Square stop number D4 at 23.50 – one
 additional, more expensive nightbus (N3) leaves at 00.10. On Friday and
 Saturday nights, the N3 will contintue to depart from Bonn Square half
 hourly until 03.10. As routes and timetables do change from time to time,
-please check <http://www.stagecoach.com> for the most up to date information.
+please check <http://www.oxfordbus.co.uk> and <http://www.stagecoach.com> for the most up to date information.
 
 ### Mobile phones
 
@@ -894,17 +867,13 @@ the short term.
 The highest concentration of phone shops is on and around Cornmarket
 Street, where there is a Carphone Warehouse, a Three shop, Phones4U (though
 this has very mixed reviews), a Vodaphone shop, and an Orange shop. There
-is also an Orange shop in the Westgate Centre, an Apple store in Broad
-Street, and an O2 store in the Clarendon Centre. 
+is also an Orange shop in the Westgate Centre, an Apple store in Westgate
+ and an O2 store in the Clarendon Centre. 
 
-Signal in Oxford is passable, and Vodafone have the best reputation for
+Signal in Oxford is passable, and Vodafone along with O2 have the best reputation for
 good coverage here. Inside many buildings, however, which unfortunately
 includes Exeter House, you will have intermittent or no reception. Many
 rooms have reliable ‘hot spots’ in window sills and the likes. Find yours!
-
-Three (3) is generally considered to be one of the cheaper networks,
-especially for smartphone packages, and Lebara mobile offer good
-international rates. However, there is always Skype!
 
 ### Shopping
 
@@ -957,7 +926,7 @@ accommodation and academic needs. They can be contacted by email at
 The Academic Dean (Dr Chris Ballinger) is the College’s Tutor for
 Graduates.  He is responsible for the academic and personal welfare of
 graduate students in the college, and he can be contacted at
-<mailto:chris.ballinger@exeter.ox.ac.uk> and 79678 on the internal telephone (add
+<mailto:academi.dean@exeter.ox.ac.uk> and 79678 on the internal telephone (add
 ‘01865 2’ if you are calling from outside of the university phone network,
 for example from a mobile phone).  His College room is high above the
 Porters’ Lodge on Staircase 1.  Dr Ballinger is happy to see any graduate
@@ -975,7 +944,7 @@ students at Exeter.
 
 #### Chaplain
 
-The College Chaplain (Andrew Allen)
+The College Chaplain (Andrew Allen, <mailto:chaplain@exeter.ox.ac.uk>)
 offers counsel and pastoral support to all members of Exeter College,
 regardless of their religious beliefs. The Freshers' Fair will also include
 representatives from the different spiritual communities at Oxford.
@@ -1001,7 +970,7 @@ mailing lists. The University prospective student pages have a number of
 resources on them, as do the college funding pages. Here, we draw your
 attention to three types of college-based funding.
 
-#### Graduate Scholarships
+##### Graduate Scholarships
 
 The College offers various scholarships. Special attention should be drawn
 to the Amelia Jackson Scholarships, which are available to existing Exeter
@@ -1010,13 +979,13 @@ the “Home/EU” rate, and a maintenance grant for a period of one year.
 Usually two to three awards are granted each year.  It is advertised early
 in Trinity Term: keep an eye out for it.
 
-#### Grants for travel and conferences
+##### Grants for travel and conferences
 
 The College makes grants to enable graduate students to travel to
 conferences related to their research. Forms are available on the College
 website: <http://www.exeter.ox.ac.uk/currentstudents/office/forms>.
 
-#### Hardship grants
+##### Hardship grants
 
 It is a condition of admission that graduate students can demonstrate that
 they are able to meet the full expenses of their intended course; Mention
@@ -1059,6 +1028,8 @@ website. Another resource worth keeping in mind is the OUSU Mind Your Head
 Campaign: <http://mindyourheadoxford.wordpress.com/>
 
 ### Graduation
+
+<img src="/images/graduation.jpg" width="100%">
 
 It may seem odd to have a message about graduation in a guide aimed at
 people who have yet to start their course.  However, there is nothing like
