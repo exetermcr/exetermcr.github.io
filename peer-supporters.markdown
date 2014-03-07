@@ -23,18 +23,8 @@ use this excellent service!
 
 <table class='name-email shaded'>
 <tr><th>MCR</th><th></th></tr>
+  <tr><td class="name">Nikita Kaushal</td>
+  <td class="email"><a href="mailto:nikita.kaushal@exeter.ox.ac.uk">nikita.kaushal@exeter.ox.ac.uk</a></td></tr>
   <tr><td class="name">Sam Denny</td>
   <td class="email"><a href="mailto:samuel.denny@exeter.ox.ac.uk">samuel.denny@exeter.ox.ac.uk</a></td></tr>
-</table>
-<table class='name-email shaded'>
-<tr><th>JCR</th><th></th></tr>
-  <tr><td class="name">Katie Ramsden</td>
-  <td class="email"><a href="mailto:katie.ramsden@exeter.ox.ac.uk">katie.ramsden@exeter.ox.ac.uk</a></td></tr>
-  <tr><td class="name">William Hesselmann</td>
-  <td class="email"><a href="mailto:william.hesselmann@exeter.ox.ac.uk">william.hesselmann@exeter.ox.ac.uk</a></td></tr>
-</table>
-<table class='name-email shaded'>
-<tr><th>SCR</th><th></th></tr>
-  <tr><td class="name">Jules Cave Bergquist (Chaplain)</td>
-  <td class="email"><a href="mailto:jules.cave.bergquist@oxford.anglican.org">jules.cave.bergquist@oxford.anglican.org</a></td></tr>
 </table>
