@@ -11,7 +11,7 @@ you can talk to.
 
 MCR Graduate Welfare Officer (<mailto:welfare@exetermcr.org>)
 : The MCR Graduate Welfare Officers are
-  Esther Kwan and Roxane Barsky. They represent the
+  Efrat Ben-Eliezer, Julienne Orcullo and Saraswati Nandini Majumdar. They represent the
   general concerns of all members of the graduate community, particularly
   in the areas of welfare, personal security, accommodation and academic needs
   
@@ -25,7 +25,7 @@ Women's Adviser
   
 Religious Support
 : The College Chaplain (The Revd
-  [Stephen Hearn](mailto:stephen.hearn@exeter.ox.ac.uk)) offers counsel and pastoral support
+  [Andrew Allen](mailto:andrew.allen@exeter.ox.ac.uk)) offers counsel and pastoral support
   to all members of Exeter College, whatever their religious beliefs. The Freshers' Fair
   will also include spiritual communities at Oxford.
   
