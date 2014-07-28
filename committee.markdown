@@ -35,5 +35,5 @@ contemporary novels.
 
 ### *Freshers Representative*, <a href="mailto:freshers-representative@exetermcr.org">Jonas von Hoffman</a>
 
-### *Equalities Representative*, <a href="mailto:ousu@exetermcr.org">Danielle Bishop</a>
+### *Equalities Representative*, <a href="mailto:equalities@exetermcr.org">Danielle Bishop</a>
 
