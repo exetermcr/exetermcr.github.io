@@ -23,6 +23,8 @@ contemporary novels.
 
 ### *Social Secretary*, <a href="mailto:social@exetermcr.org">Karishma Tiwari</a>
 
+### *Social Secretary*, <a href="mailto:social@exetermcr.org">Hrothgar</a>
+
 ### *Sports Rep*, <a href="mailto:sports@exetermcr.org">Paola Ferrari</a>
 
 ### *IT Officer*, <a href="mailto:it@exetermcr.org">Abhishek Dasgupta</a>
