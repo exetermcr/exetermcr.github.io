@@ -13,10 +13,8 @@ First Aid
     ☎ [01865 224800](tel:01865224800)
 
 College Nurse
-: The College Nurse (Ms <a href="mailto:sarah.dragonetti@exeter.ox.ac.uk">Sarah Dragonetti</a>) has a surgery in 7:1, tel 01865
-279639. Surgery hours are **M/T** 2.30-4.30 **W** 09.45-11.45 **Th**
-        12.30-1.30 **F** 9-10.
-She can give treatment for all sorts of minor problems,
+: The College Nurse, [Kate Tempest](http://www.exeter.ox.ac.uk/kate-tempest)
+([email](mailto:nurse@exeter.ox.ac.uk)) can give treatment for all sorts of minor problems,
 give advice on more serious ones, arrange prescriptions and help with
 stress management.
 

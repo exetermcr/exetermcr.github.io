@@ -11,7 +11,7 @@ you can talk to.
 
 MCR Graduate Welfare Officer (<mailto:welfare@exetermcr.org>)
 : The MCR Graduate Welfare Officers are
-  Efrat Ben-Eliezer, Julienne Orcullo and Saraswati Nandini Majumdar. They represent the
+  Efrat Ben-Eliezer and Hugh Foley. They represent the
   general concerns of all members of the graduate community, particularly
   in the areas of welfare, personal security, accommodation and academic needs.
   
