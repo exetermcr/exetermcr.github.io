@@ -9,9 +9,9 @@ stay here. Some of the people and resources you could approach for help are give
 below. The College also has a group of [peer supporters](/peer-supporters) whom
 you can talk to.
 
-MCR Graduate Welfare Officer (<mailto:welfare@exetermcr.org>)
+MCR Graduate Welfare Officer (<mailto:welfare@exetermcr.org.uk>)
 : The MCR Graduate Welfare Officers are
-  Efrat Ben-Eliezer and Hugh Foley. They represent the
+  Kristin Grogan and Cate Gibson. They represent the
   general concerns of all members of the graduate community, particularly
   in the areas of welfare, personal security, accommodation and academic needs.
   
