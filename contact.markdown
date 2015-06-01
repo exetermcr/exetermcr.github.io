@@ -5,7 +5,7 @@ title: Contact
 The MCR is located at *Staircase 8, Ground Floor, Exeter College, Oxford OX1 3DP*.
 
 You can find out about the [committee](/committee) which sets the direction for the MCR.
-The MCR President is [Emily Dolmans](mailto:president@exetermcr.org).
+The MCR President is [Andreas Harris](mailto:president@exetermcr.org.uk).
 
 If you are a member of the MCR, but are not subscribed to the `exeter-mcr` mailing list,
 then please send a blank email to
