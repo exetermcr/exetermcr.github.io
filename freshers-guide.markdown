@@ -15,6 +15,6 @@ difference.
 
 <div class="information">
 <p>Download
-<a href="http://data.exetermcr.org/freshers-guide-2014.pdf">Freshers' Guide for 2014</a>
+<a href="http://http://data.exetermcr.org.uk/FreshersGuide2015.pdf">Freshers' Guide for 2015</a>
 (6.7M)
 </div>
