@@ -32,7 +32,7 @@ Robert Fraser
 
 ### *Environmental Rep*, <mailto:environmental@exetermcr.org.uk>
 
-*to be appointed*
+Alastair Hanson
 
 ### *Library Rep*, <mailto:library@exetermcr.org.uk>
 
