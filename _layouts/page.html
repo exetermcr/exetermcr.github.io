@@ -30,9 +30,6 @@
   </div>
 </header>
 {% include nav.html %}
-<div id="page-header">
-  <h2>{{ page.title | downcase }}</h2>
-</div>
 <div class="navbar-structure navbar-quick">
 
 <ul>
@@ -45,6 +42,10 @@
     <li ><a href="/map">Map</a></li>
 
 </ul>
+</div>
+
+<div id="page-header">
+  <h2>{{ page.title | downcase }}</h2>
 </div>
 {% if page.alert != null %}
 <div class="alert alert-{{ page.alert-type }}">
