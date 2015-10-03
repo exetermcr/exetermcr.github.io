@@ -33,6 +33,7 @@ ul {
 }
 
 div.information {
+    font-family: Montserrat, sans-serif;
 	background: wheat;
 	border: 1px solid silver;
 	p {
@@ -71,6 +72,8 @@ img {
 }
 
 div.alert {
+
+    font-family: Montserrat, sans-serif;
 	width: auto;
 	padding: 0.4em 0;
 	p {
@@ -127,6 +130,8 @@ table.name-phone {
 }
 
 div.header {
+
+    font-family: Montserrat, sans-serif;
     background-color: rgba(0,0,0,0.1);
 	margin: 0;
     padding: 0;
@@ -163,6 +168,8 @@ div#page-header {
 }
 
 div.footer {
+
+    font-family: Montserrat, sans-serif;
     display: block;
     clear: both;
     font-size: 90%;
@@ -185,6 +192,8 @@ div.footer {
 }
 
 div#quick-links, div#events {
+    font-family: Montserrat, sans-serif;
+
     margin: 0;
     margin-top: -15px;
     margin-bottom: 2em;
