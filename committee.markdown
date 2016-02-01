@@ -4,31 +4,31 @@ title: Executive Committee
 ---
 ### *President*, <president@exetermcr.org.uk>
 
-Andreas Harris
+Daniel Mittendorf
 
 ### *Vice President*, <mailto:vice-president@exetermcr.org.uk>
 
-Daniel Mittendorf
+Sandra Ionescu 
 
-### *Treasurer*, <mailto:treasurers@exetermcr.org.uk>
+### *Treasurers*, <mailto:treasurers@exetermcr.org.uk>
 
-Myriam Frenkel
+Xuan Wang and Myriam Frenkel
 
 ### *Welfare Officers*, <mailto:welfare@exetermcr.org.uk>
 
-Kristin Grogan and Cate Gibson
+Maura McKeon and Lindsey Visser
 
 ### *Social Secretaries*, <mailto:social@exetermcr.org.uk>
 
-Samantha Siegel, Sandra Ionescu and Christina Palmou
+Joseph Bluck, Richard Rogers, and Cate Gibson
 
 ### *Sports Rep*, <mailto:sports@exetermcr.org.uk>
 
-Aidan Walker
+Helen Potts
 
 ### *IT Officer*, <mailto:it@exetermcr.org.uk>
 
-Robert Fraser
+Parker Edwards
 
 ### *Environmental Rep*, <mailto:environmental@exetermcr.org.uk>
 
@@ -36,16 +36,17 @@ Alistair Hanson
 
 ### *Library Rep*, <mailto:library@exetermcr.org.uk>
 
-Kelsey Haver
+Veronika Lütkenhaus
 
 ### *OUSU Representative*, <mailto:ousu@exetermcr.org.uk>
 
 Paul Giraud
 
-### *Freshers Representative*, <mailto:freshers-representative@exetermcr.org.uk>
-
-Nelson Wang
-
 ### *Equalities Representative*, <mailto:equalities@exetermcr.org.uk>
 
-Adam Ward
+Christina Palmou
+
+### *Freshers Representative*, <mailto:freshers-representative@exetermcr.org.uk>
+
+
+
