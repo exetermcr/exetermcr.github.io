@@ -22,6 +22,10 @@ Maura McKeon and Lindsey Visser
 
 Joseph Bluck, Richard Rogers, and Cate Gibson
 
+### *Exeter House President*, <mailto:exeter-house-president@exetermcr.org.uk>
+
+Jack Hoover
+
 ### *Sports Rep*, <mailto:sports@exetermcr.org.uk>
 
 Helen Potts
