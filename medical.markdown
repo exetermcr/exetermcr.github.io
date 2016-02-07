@@ -13,10 +13,31 @@ First Aid
     ☎ [01865 224800](tel:01865224800)
 
 College Nurse
-: The College Nurse, [Kate Tempest](http://www.exeter.ox.ac.uk/kate-tempest)
-([email](mailto:nurse@exeter.ox.ac.uk)) can give treatment for all sorts of minor problems,
-give advice on more serious ones, arrange prescriptions and help with
-stress management.
+: Exeter College is currently in the process of finding a new College Nurse. In the interim, the following sources can provide medical assistance: 
+1. The nurse at Lincoln College, Midge Curran is happy to see any Exeter
+   students. Her hours are:
+   Monday         12 noon - 2pm
+   Tuesday         12 noon - 2pm
+   Wednesday     12 noon - 2pm
+   Thursday         8am - 9 am; 12 noon - 1pm
+   Friday             12 noon - 2 pm
+
+   Her office / surgery is in Chapel Quad, which is the second Quad at
+   Lincoln. If you are unsure where to go, please ask the Lincoln porters.
+   Like here, either email her or drop in [nurse@lincoln.ox.ac.uk](mailto:nurse@lincoln.ox.ac.uk)
+   
+2. The nurse at Green Templeton College, Jane Lambert, is also happy to
+   see any Exeter students. Her hours are:
+   Mondays and Wednesdays 2.45pm - 5.30pm.
+
+3. The College Doctors run an 'Express Clinic', Monday - Friday from 11am
+   - 1pm. To book this, you need to phone [01865 240501](tel:01865240501) and ask for the Express
+   Clinic. If you call before 11am, you will be guaranteed an appointment
+   that day.
+
+4. If you want advice about sexual health, there is a drop in service,
+   operating out of The Rectory Medical Centre, Rectory Rd, OX4 1BU; you can
+   just rock up if you have any queries, or ring on [01865 226969](tel:01865226969).
 
 College Doctors, ☎ [01865 240501](tel:01865240501)
 : The College Doctors are at 19 Beaumont Street, Oxford.
