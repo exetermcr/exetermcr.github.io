@@ -30,8 +30,8 @@ College Nurse
    see any Exeter students. Her hours are:
    Mondays and Wednesdays 2.45pm - 5.30pm.
 
-3. The College Doctors run an 'Express Clinic', Monday - Friday from 11am
-   - 1pm. To book this, you need to phone [01865 240501](tel:01865240501) and ask for the Express
+3. The College Doctors run an 'Express Clinic', Monday - Friday from 11am - 1pm. 
+   To book this, you need to phone [01865 240501](tel:01865240501) and ask for the Express
    Clinic. If you call before 11am, you will be guaranteed an appointment
    that day.
 
