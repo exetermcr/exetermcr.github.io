@@ -4,11 +4,11 @@ title: Executive Committee
 ---
 ### *President*, <president@exetermcr.org.uk>
 
-Daniel Mittendorf
+Sandra Ionescu
 
 ### *Vice President*, <mailto:vice-president@exetermcr.org.uk>
 
-Sandra Ionescu 
+Hele Francis
 
 ### *Treasurers*, <mailto:treasurers@exetermcr.org.uk>
 
@@ -52,5 +52,5 @@ Christina Palmou
 
 ### *Freshers Representative*, <mailto:freshers-representative@exetermcr.org.uk>
 
-
+Joseph Bluck
 
