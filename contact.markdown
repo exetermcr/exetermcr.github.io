@@ -5,7 +5,7 @@ title: Contact
 The MCR is located at *Staircase 8, Ground Floor, Exeter College, Oxford OX1 3DP*.
 
 You can find out about the [committee](/committee) which sets the direction for the MCR.
-The MCR President is [Daniel Mittendorf](mailto:president@exetermcr.org.uk).
+The MCR President is [Sandra Ionescu](mailto:president@exetermcr.org.uk).
 
 If you are a member of the MCR, but are not subscribed to the `exeter-mcr` mailing list,
 then please send a blank email to
