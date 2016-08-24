@@ -25,7 +25,8 @@ hr.light {
 }
 
 a {
-    color: #782121;
+    color: white;
+    <!--color: #782121;-->
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
