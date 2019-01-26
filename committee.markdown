@@ -4,35 +4,35 @@ title: Executive Committee
 ---
 ### *President*, <president@exetermcr.org.uk>
 
-Sandra Ionescu
+Tom Hadfield
 
 ### *Vice President*, <mailto:vice-president@exetermcr.org.uk>
 
-Hele Francis
+Tom Shah
 
 ### *Treasurers*, <mailto:treasurers@exetermcr.org.uk>
 
-Xuan Wang and Myriam Frenkel
+Laurence McKellar
 
 ### *Welfare Officers*, <mailto:welfare@exetermcr.org.uk>
 
-Maura McKeon and Lindsey Visser
+Flora Hudson, Ru Maciver
 
 ### *Social Secretaries*, <mailto:social@exetermcr.org.uk>
 
-Joseph Bluck, Richard Rogers, and Cate Gibson
+Owen Crowther, Kate Dicker, Christy Kin-Cleaves
 
 ### *Exeter House President*, <mailto:exeter-house-president@exetermcr.org.uk>
 
-Jack Hoover
+Hamza Shad
 
 ### *Sports Rep*, <mailto:sports@exetermcr.org.uk>
 
-Helen Potts
+James Bevin
 
 ### *IT Officer*, <mailto:it@exetermcr.org.uk>
 
-Parker Edwards
+Shuxiang Cao
 
 ### *Environmental Rep*, <mailto:environmental@exetermcr.org.uk>
 
@@ -40,17 +40,16 @@ Alistair Hanson
 
 ### *Library Rep*, <mailto:library@exetermcr.org.uk>
 
-Veronika Lütkenhaus
+Josh Lappen
 
 ### *OUSU Representative*, <mailto:ousu@exetermcr.org.uk>
 
-Paul Giraud
+Caspar Jacobs
 
 ### *Equalities Representative*, <mailto:equalities@exetermcr.org.uk>
 
-Christina Palmou
+Matt Ellis
 
 ### *Freshers Representative*, <mailto:freshers-representative@exetermcr.org.uk>
 
-Joseph Bluck
-
+Kate Dicker
