@@ -28,7 +28,7 @@ Hamza Shad
 
 ### *Sports Rep*, <mailto:sports@exetermcr.org.uk>
 
-James Bevin
+Donald Bevin
 
 ### *IT Officer*, <mailto:it@exetermcr.org.uk>
 
