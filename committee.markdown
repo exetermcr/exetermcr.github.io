@@ -8,7 +8,7 @@ Tom Hadfield
 
 ### *Vice President*, <mailto:vice-president@exetermcr.org.uk>
 
-Tom Shah
+Naya Yerolemou
 
 ### *Treasurers*, <mailto:treasurers@exetermcr.org.uk>
 
